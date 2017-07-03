@@ -72,8 +72,11 @@ public class App {
                 "player_2 integer, " +
                 "player_1_deck integer, " +
                 "player_2_deck integer, " +
+                "player_1_wins integer, " +
+                "player_2_wins integer, " +
+                "draws integer, " +
                 "tournament_id integer, " +
-                "result integer COMMENT '-1 player 1 wins, 0 tie, 1 player 2 wins', " +
+                "result varchar(24), " + // PLAYER_1 PLAYER_2 DRAW PLAYER_1_MATCH_LOSS PLAYER_2_MATCH_LOSS INTENTIONAL_DRAW UNINTENTIONAL_DRAW
                 "FOREIGN KEY (player_1) REFERENCES players (player_id) , " +
                 "FOREIGN KEY (player_2) REFERENCES players (player_id) , " +
                 "FOREIGN KEY (player_1_deck) REFERENCES decks (deck_id) , " +
@@ -81,8 +84,7 @@ public class App {
                 "FOREIGN KEY (tournament_id) REFERENCES tournaments (tournament_id)" +
             ")"
         );
-
-
+        
         h.execute("insert into players (player_id, name) values (?, ?)", 1, "Brian");
 
         String name = h.createQuery("select name from players where player_id = :id")

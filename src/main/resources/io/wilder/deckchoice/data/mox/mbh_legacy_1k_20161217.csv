@@ -1,0 +1,221 @@
+Round,Player,Archetype,Sub Archetype,Result,Won,Lost,Drew,Opponent,Archetype,Sub Archetype
+1,Jordan Aisaka,UWR Stoneblade,,Won,2,1,0,Alex Ford,Manaless Dredge,
+1,Brian Bennett,Aluren,R,Won,2,1,0,Tyler Marklyn,Tezzeret,Grixis
+1,Garth Brewe,Burn,,Won,2,0,0,Josh Monks,Jund,Punishing
+1,Sean Catanese,NetherLands,,Won,2,0,0,Vikram Kudva,Red Stompy,
+1,Elston Cloy,BR Reanimator,,Lost,0,2,0,Timothy Wilder,Miracles,
+1,Christopher Cornejo,Grixis Control,,Lost,0,2,0,Joey Klonowski,Miracles,
+1,Thomas Cornett,Aluren,R,Won,2,0,0,Thomas Lynch,High Tide,
+1,Peter Cottell,4c Loam,,Lost,1,2,0,Shawn Yu,Miracles,
+1,Ryan Coverdale,Grixis Delver,,Lost,1,2,0,David Scott,RG Lands,
+1,Aaron Crosett,Miracles,,Drew,1,1,0,Conor Jacob,Jund,Punishing
+1,Wes Dawson,Food Chain,,Lost,1,2,0,Zac Forshee,ANT,
+1,Jeremy Edwards,Eldrazi,12-Post,Won,2,0,0,Mike Kiesel,Aluren,BUG
+1,Alex Ford,Manaless Dredge,,Lost,1,2,0,Jordan Aisaka,UWR Stoneblade,
+1,Christopher Fornace,Nic Fit,BUG,Won,2,0,0,Erik Mickel,MUD,
+1,Zac Forshee,ANT,,Won,2,1,0,Wes Dawson,Food Chain,
+1,Josh Gjerness,ANT,,Won,2,1,0,Jeff Lindner,RG Lands,
+1,Ken Hamlett,Food Chain,,Won,2,0,0,Jesse Kunz,Sneak and Show,
+1,Samuel Hriljac,Miracles,,Drew,1,1,0,Eric Keiser,Nic Fit,Sneak
+1,Conor Jacob,Jund,Punishing,Drew,1,1,0,Aaron Crosett,Miracles,
+1,Eric Keiser,Nic Fit,Sneak,Drew,1,1,0,Samuel Hriljac,Miracles,
+1,Mike Kiesel,Aluren,BUG,Lost,0,2,0,Jeremy Edwards,Eldrazi,12-Post
+1,Joey Klonowski,Miracles,,Won,2,0,0,Christopher Cornejo,Grixis Control,
+1,Vikram Kudva,Red Stompy,,Lost,0,2,0,Sean Catanese,NetherLands,
+1,Jesse Kunz,Sneak and Show,,Lost,0,2,0,Ken Hamlett,Food Chain,
+1,Thomas Lancaster,Infect,,Won,2,0,0,Russell Martin,BR Reanimator,
+1,Chris Leclercq,Lands,RUG,Lost,0,2,0,Greg Mitchell,Omni/Miracles,
+1,Bill Li,Death and Taxes,,Won,2,0,0,Nathan Lickteig,Stiflenought,BUG
+1,Nathan Lickteig,Stiflenought,BUG,Lost,0,2,0,Bill Li,Death and Taxes,
+1,Jeff Lindner,RG Lands,,Lost,1,2,0,Josh Gjerness,ANT,
+1,Thomas Lynch,High Tide,,Lost,0,2,0,Thomas Cornett,Aluren,R
+1,Tyler Marklyn,Tezzeret,Grixis,Lost,1,2,0,Brian Bennett,Aluren,R
+1,Russell Martin,BR Reanimator,,Lost,0,2,0,Thomas Lancaster,Infect,
+1,Ryan Mathisen,BR Reanimator,,Won,2,1,0,Shawn Tabrizi,Grixis Delver,
+1,Jake Mccune,Death and Taxes,,Lost,0,2,0,Patrick Tierney,Death and Taxes,
+1,Erik Mickel,MUD,,Lost,0,2,0,Christopher Fornace,Nic Fit,BUG
+1,Greg Mitchell,Omni/Miracles,,Won,2,0,0,Chris Leclercq,Lands,RUG
+1,Josh Monks,Jund,Punishing,Lost,0,2,0,Garth Brewe,Burn,
+1,Brad Rutherford,Burn,,Bye,,,,,,
+1,Alex Scott,Deadguy Ale,,Lost,0,2,0,James Wade,Esper Deathblade,
+1,David Scott,RG Lands,,Won,2,1,0,Ryan Coverdale,Grixis Delver,
+1,Shawn Tabrizi,Grixis Delver,,Lost,1,2,0,Ryan Mathisen,BR Reanimator,
+1,Patrick Tierney,Death and Taxes,,Won,2,0,0,Jake Mccune,Death and Taxes,
+1,James Wade,Esper Deathblade,,Won,2,0,0,Alex Scott,Deadguy Ale,
+1,Timothy Wilder,Miracles,,Won,2,0,0,Elston Cloy,BR Reanimator,
+1,Shawn Yu,Miracles,,Won,2,1,0,Peter Cottell,4c Loam,
+2,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Sean Catanese,NetherLands,
+2,Brian Bennett,Aluren,R,Lost,0,2,0,Thomas Lancaster,Infect,
+2,Garth Brewe,Burn,,Lost,1,2,0,Christopher Fornace,Nic Fit,BUG
+2,Sean Catanese,NetherLands,,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+2,Elston Cloy,BR Reanimator,,Won,2,0,0,Russell Martin,BR Reanimator,
+2,Christopher Cornejo,Grixis Control,,Lost,0,2,0,Mike Kiesel,Aluren,BUG
+2,Thomas Cornett,Aluren,R,Lost,1,2,0,David Scott,RG Lands,
+2,Peter Cottell,4c Loam,,Lost,1,2,0,Tyler Marklyn,Tezzeret,Grixis
+2,Ryan Coverdale,Grixis Delver,,Won,2,0,0,Wes Dawson,Food Chain,
+2,Aaron Crosett,Miracles,,Won,2,0,0,Chris Leclercq,Lands,RUG
+2,Wes Dawson,Food Chain,,Lost,0,2,0,Ryan Coverdale,Grixis Delver,
+2,Jeremy Edwards,Eldrazi,12-Post,Drew,1,1,0,Timothy Wilder,Miracles,
+2,Alex Ford,Manaless Dredge,,Lost,1,2,0,Alex Scott,Deadguy Ale,
+2,Christopher Fornace,Nic Fit,BUG,Won,2,1,0,Garth Brewe,Burn,
+2,Zac Forshee,ANT,,Won,2,0,0,Joey Klonowski,Miracles,
+2,Josh Gjerness,ANT,,Lost,0,2,0,Ken Hamlett,Food Chain,
+2,Ken Hamlett,Food Chain,,Won,2,0,0,Josh Gjerness,ANT,
+2,Samuel Hriljac,Miracles,,Won,2,1,0,Conor Jacob,Jund,Punishing
+2,Conor Jacob,Jund,Punishing,Lost,1,2,0,Samuel Hriljac,Miracles,
+2,Eric Keiser,Nic Fit,Sneak,Lost,0,2,0,Brad Rutherford,Burn,
+2,Mike Kiesel,Aluren,BUG,Won,2,0,0,Christopher Cornejo,Grixis Control,
+2,Joey Klonowski,Miracles,,Lost,0,2,0,Zac Forshee,ANT,
+2,Vikram Kudva,Red Stompy,,Bye,,,,,,
+2,Jesse Kunz,Sneak and Show,,Won,2,1,0,Josh Monks,Jund,Punishing
+2,Thomas Lancaster,Infect,,Won,2,0,0,Brian Bennett,Aluren,R
+2,Chris Leclercq,Lands,RUG,Lost,0,2,0,Aaron Crosett,Miracles,
+2,Bill Li,Death and Taxes,,Won,2,1,0,Greg Mitchell,Omni/Miracles,
+2,Nathan Lickteig,Stiflenought,BUG,Won,2,0,0,Thomas Lynch,High Tide,
+2,Jeff Lindner,RG Lands,,Won,2,0,0,Erik Mickel,MUD,
+2,Thomas Lynch,High Tide,,Lost,0,2,0,Nathan Lickteig,Stiflenought,BUG
+2,Tyler Marklyn,Tezzeret,Grixis,Won,2,1,0,Peter Cottell,4c Loam,
+2,Russell Martin,BR Reanimator,,Lost,0,2,0,Elston Cloy,BR Reanimator,
+2,Ryan Mathisen,BR Reanimator,,Lost,1,2,0,James Wade,Esper Deathblade,
+2,Jake Mccune,Death and Taxes,,Won,2,0,0,Shawn Tabrizi,Grixis Delver,
+2,Erik Mickel,MUD,,Lost,0,2,0,Jeff Lindner,RG Lands,
+2,Greg Mitchell,Omni/Miracles,,Lost,1,2,0,Bill Li,Death and Taxes,
+2,Josh Monks,Jund,Punishing,Lost,1,2,0,Jesse Kunz,Sneak and Show,
+2,Brad Rutherford,Burn,,Won,2,0,0,Eric Keiser,Nic Fit,Sneak
+2,Alex Scott,Deadguy Ale,,Won,2,1,0,Alex Ford,Manaless Dredge,
+2,David Scott,RG Lands,,Won,2,1,0,Thomas Cornett,Aluren,R
+2,Shawn Tabrizi,Grixis Delver,,Lost,0,2,0,Jake Mccune,Death and Taxes,
+2,Patrick Tierney,Death and Taxes,,Won,2,0,0,Shawn Yu,Miracles,
+2,James Wade,Esper Deathblade,,Won,2,1,0,Ryan Mathisen,BR Reanimator,
+2,Timothy Wilder,Miracles,,Drew,1,1,0,Jeremy Edwards,Eldrazi,12-Post
+2,Shawn Yu,Miracles,,Lost,0,2,0,Patrick Tierney,Death and Taxes,
+3,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Brad Rutherford,Burn,
+3,Brian Bennett,Aluren,R,Lost,1,2,0,Thomas Cornett,Aluren,R
+3,Garth Brewe,Burn,,Lost,1,2,0,Mike Kiesel,Aluren,BUG
+3,Sean Catanese,NetherLands,,Lost,1,2,0,Jeff Lindner,RG Lands,
+3,Elston Cloy,BR Reanimator,,Won,2,1,0,Jesse Kunz,Sneak and Show,
+3,Thomas Cornett,Aluren,R,Won,2,1,0,Brian Bennett,Aluren,R
+3,Peter Cottell,4c Loam,,Lost,0,2,0,Wes Dawson,Food Chain,
+3,Ryan Coverdale,Grixis Delver,,Won,2,0,0,Ryan Mathisen,BR Reanimator,
+3,Aaron Crosett,Miracles,,Lost,0,2,0,Timothy Wilder,Miracles,
+3,Wes Dawson,Food Chain,,Won,2,0,0,Peter Cottell,4c Loam,
+3,Jeremy Edwards,Eldrazi,12-Post,Won,2,1,0,Samuel Hriljac,Miracles,
+3,Alex Ford,Manaless Dredge,,Bye,,,,,,
+3,Christopher Fornace,Nic Fit,BUG,Won,2,0,0,Zac Forshee,ANT,
+3,Zac Forshee,ANT,,Lost,0,2,0,Christopher Fornace,Nic Fit,BUG
+3,Josh Gjerness,ANT,,Lost,1,2,0,Shawn Yu,Miracles,
+3,Ken Hamlett,Food Chain,,Lost,1,2,0,James Wade,Esper Deathblade,
+3,Samuel Hriljac,Miracles,,Lost,1,2,0,Jeremy Edwards,Eldrazi,12-Post
+3,Conor Jacob,Jund,Punishing,Won,2,1,0,Alex Scott,Deadguy Ale,
+3,Eric Keiser,Nic Fit,Sneak,Won,2,1,0,Chris Leclercq,Lands,RUG
+3,Mike Kiesel,Aluren,BUG,Won,2,1,0,Garth Brewe,Burn,
+3,Joey Klonowski,Miracles,,Won,2,0,0,Nathan Lickteig,Stiflenought,BUG
+3,Vikram Kudva,Red Stompy,,Lost,1,2,0,Tyler Marklyn,Tezzeret,Grixis
+3,Jesse Kunz,Sneak and Show,,Lost,1,2,0,Elston Cloy,BR Reanimator,
+3,Thomas Lancaster,Infect,,Won,2,0,0,Patrick Tierney,Death and Taxes,
+3,Chris Leclercq,Lands,RUG,Lost,1,2,0,Eric Keiser,Nic Fit,Sneak
+3,Bill Li,Death and Taxes,,Won,2,1,0,David Scott,RG Lands,
+3,Nathan Lickteig,Stiflenought,BUG,Lost,0,2,0,Joey Klonowski,Miracles,
+3,Jeff Lindner,RG Lands,,Won,2,1,0,Sean Catanese,NetherLands,
+3,Thomas Lynch,High Tide,,Won,2,0,0,Erik Mickel,MUD,
+3,Tyler Marklyn,Tezzeret,Grixis,Won,2,1,0,Vikram Kudva,Red Stompy,
+3,Ryan Mathisen,BR Reanimator,,Lost,0,2,0,Ryan Coverdale,Grixis Delver,
+3,Jake Mccune,Death and Taxes,,Lost,1,2,0,Greg Mitchell,Omni/Miracles,
+3,Erik Mickel,MUD,,Lost,0,2,0,Thomas Lynch,High Tide,
+3,Greg Mitchell,Omni/Miracles,,Won,2,1,0,Jake Mccune,Death and Taxes,
+3,Brad Rutherford,Burn,,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+3,Alex Scott,Deadguy Ale,,Lost,1,2,0,Conor Jacob,Jund,Punishing
+3,David Scott,RG Lands,,Lost,1,2,0,Bill Li,Death and Taxes,
+3,Patrick Tierney,Death and Taxes,,Lost,0,2,0,Thomas Lancaster,Infect,
+3,James Wade,Esper Deathblade,,Won,2,1,0,Ken Hamlett,Food Chain,
+3,Timothy Wilder,Miracles,,Won,2,0,0,Aaron Crosett,Miracles,
+3,Shawn Yu,Miracles,,Won,2,1,0,Josh Gjerness,ANT,
+4,Jordan Aisaka,UWR Stoneblade,,Drew,1,1,0,Christopher Fornace,Nic Fit,BUG
+4,Elston Cloy,BR Reanimator,,Lost,1,2,0,Brad Rutherford,Burn,
+4,Thomas Cornett,Aluren,R,Lost,0,2,0,Ryan Coverdale,Grixis Delver,
+4,Peter Cottell,4c Loam,,Won,2,1,0,Ryan Mathisen,BR Reanimator,
+4,Ryan Coverdale,Grixis Delver,,Won,2,0,0,Thomas Cornett,Aluren,R
+4,Aaron Crosett,Miracles,,Lost,0,1,0,Samuel Hriljac,Miracles,
+4,Wes Dawson,Food Chain,,Won,2,0,0,Alex Ford,Manaless Dredge,
+4,Jeremy Edwards,Eldrazi,12-Post,Won,2,0,0,James Wade,Esper Deathblade,
+4,Alex Ford,Manaless Dredge,,Lost,0,2,0,Wes Dawson,Food Chain,
+4,Christopher Fornace,Nic Fit,BUG,Drew,1,1,0,Jordan Aisaka,UWR Stoneblade,
+4,Zac Forshee,ANT,,Lost,0,2,0,Timothy Wilder,Miracles,
+4,Ken Hamlett,Food Chain,,Won,2,0,0,David Scott,RG Lands,
+4,Samuel Hriljac,Miracles,,Won,1,0,0,Aaron Crosett,Miracles,
+4,Conor Jacob,Jund,Punishing,Won,2,1,0,Nathan Lickteig,Stiflenought,BUG
+4,Eric Keiser,Nic Fit,Sneak,Lost,1,2,0,Tyler Marklyn,Tezzeret,Grixis
+4,Mike Kiesel,Aluren,BUG,Won,2,1,0,Patrick Tierney,Death and Taxes,
+4,Joey Klonowski,Miracles,,Won,2,0,0,Jeff Lindner,RG Lands,
+4,Jesse Kunz,Sneak and Show,,Lost,0,2,0,Alex Scott,Deadguy Ale,
+4,Thomas Lancaster,Infect,,Lost,1,2,0,Bill Li,Death and Taxes,
+4,Chris Leclercq,Lands,RUG,Bye,,,,,,
+4,Bill Li,Death and Taxes,,Won,2,1,0,Thomas Lancaster,Infect,
+4,Nathan Lickteig,Stiflenought,BUG,Lost,1,2,0,Conor Jacob,Jund,Punishing
+4,Jeff Lindner,RG Lands,,Lost,0,2,0,Joey Klonowski,Miracles,
+4,Tyler Marklyn,Tezzeret,Grixis,Won,2,1,0,Eric Keiser,Nic Fit,Sneak
+4,Ryan Mathisen,BR Reanimator,,Lost,1,2,0,Peter Cottell,4c Loam,
+4,Greg Mitchell,Omni/Miracles,,Won,2,1,0,Shawn Yu,Miracles,
+4,Brad Rutherford,Burn,,Won,2,1,0,Elston Cloy,BR Reanimator,
+4,Alex Scott,Deadguy Ale,,Won,2,0,0,Jesse Kunz,Sneak and Show,
+4,David Scott,RG Lands,,Lost,0,2,0,Ken Hamlett,Food Chain,
+4,Patrick Tierney,Death and Taxes,,Lost,1,2,0,Mike Kiesel,Aluren,BUG
+4,James Wade,Esper Deathblade,,Lost,0,2,0,Jeremy Edwards,Eldrazi,12-Post
+4,Timothy Wilder,Miracles,,Won,2,0,0,Zac Forshee,ANT,
+4,Shawn Yu,Miracles,,Lost,1,2,0,Greg Mitchell,Omni/Miracles,
+5,Jordan Aisaka,UWR Stoneblade,,Won,2,1,0,Bill Li,Death and Taxes,
+5,Elston Cloy,BR Reanimator,,Lost,1,2,0,Conor Jacob,Jund,Punishing
+5,Thomas Cornett,Aluren,R,Lost,0,2,0,Wes Dawson,Food Chain,
+5,Ryan Coverdale,Grixis Delver,,Lost,1,2,0,Brad Rutherford,Burn,
+5,Wes Dawson,Food Chain,,Won,2,0,0,Thomas Cornett,Aluren,R
+5,Jeremy Edwards,Eldrazi,12-Post,Won,2,0,0,Christopher Fornace,Nic Fit,BUG
+5,Christopher Fornace,Nic Fit,BUG,Lost,0,2,0,Jeremy Edwards,Eldrazi,12-Post
+5,Zac Forshee,ANT,,Lost,0,2,0,David Scott,RG Lands,
+5,Ken Hamlett,Food Chain,,Lost,0,2,0,Mike Kiesel,Aluren,BUG
+5,Samuel Hriljac,Miracles,,Won,2,1,0,Alex Scott,Deadguy Ale,
+5,Conor Jacob,Jund,Punishing,Won,2,1,0,Elston Cloy,BR Reanimator,
+5,Mike Kiesel,Aluren,BUG,Won,2,0,0,Ken Hamlett,Food Chain,
+5,Joey Klonowski,Miracles,,Lost,0,2,0,Timothy Wilder,Miracles,
+5,Thomas Lancaster,Infect,,Lost,0,2,0,Tyler Marklyn,Tezzeret,Grixis
+5,Bill Li,Death and Taxes,,Lost,1,2,0,Jordan Aisaka,UWR Stoneblade,
+5,Jeff Lindner,RG Lands,,Lost,1,2,0,Patrick Tierney,Death and Taxes,
+5,Tyler Marklyn,Tezzeret,Grixis,Won,2,0,0,Thomas Lancaster,Infect,
+5,Greg Mitchell,Omni/Miracles,,Won,2,0,0,James Wade,Esper Deathblade,
+5,Brad Rutherford,Burn,,Won,2,1,0,Ryan Coverdale,Grixis Delver,
+5,Alex Scott,Deadguy Ale,,Lost,1,2,0,Samuel Hriljac,Miracles,
+5,David Scott,RG Lands,,Won,2,0,0,Zac Forshee,ANT,
+5,Patrick Tierney,Death and Taxes,,Won,2,1,0,Jeff Lindner,RG Lands,
+5,James Wade,Esper Deathblade,,Lost,0,2,0,Greg Mitchell,Omni/Miracles,
+5,Timothy Wilder,Miracles,,Won,2,0,0,Joey Klonowski,Miracles,
+6,Jordan Aisaka,UWR Stoneblade,,ID,0,0,1,Jeremy Edwards,Eldrazi,12-Post
+6,Elston Cloy,BR Reanimator,,Lost,1,2,0,Alex Scott,Deadguy Ale,
+6,Wes Dawson,Food Chain,,Won,2,0,0,Patrick Tierney,Death and Taxes,
+6,Jeremy Edwards,Eldrazi,12-Post,ID,0,0,1,Jordan Aisaka,UWR Stoneblade,
+6,Christopher Fornace,Nic Fit,BUG,Lost,0,2,0,Samuel Hriljac,Miracles,
+6,Ken Hamlett,Food Chain,,Lost,1,2,0,Thomas Lancaster,Infect,
+6,Samuel Hriljac,Miracles,,Won,2,0,0,Christopher Fornace,Nic Fit,BUG
+6,Conor Jacob,Jund,Punishing,Won,2,1,0,James Wade,Esper Deathblade,
+6,Mike Kiesel,Aluren,BUG,Lost,0,2,0,Brad Rutherford,Burn,
+6,Thomas Lancaster,Infect,,Won,2,1,0,Ken Hamlett,Food Chain,
+6,Bill Li,Death and Taxes,,ID,0,0,1,Timothy Wilder,Miracles,
+6,Tyler Marklyn,Tezzeret,Grixis,Won,2,0,0,Greg Mitchell,Omni/Miracles,
+6,Greg Mitchell,Omni/Miracles,,Lost,0,2,0,Tyler Marklyn,Tezzeret,Grixis
+6,Brad Rutherford,Burn,,Won,2,0,0,Mike Kiesel,Aluren,BUG
+6,Alex Scott,Deadguy Ale,,Won,2,1,0,Elston Cloy,BR Reanimator,
+6,Patrick Tierney,Death and Taxes,,Lost,0,2,0,Wes Dawson,Food Chain,
+6,James Wade,Esper Deathblade,,Lost,1,2,0,Conor Jacob,Jund,Punishing
+6,Timothy Wilder,Miracles,,ID,0,0,1,Bill Li,Death and Taxes,
+Q,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Timothy Wilder,Miracles,
+Q,Jeremy Edwards,Eldrazi,12-Post,Won,2,1,0,Bill Li,Death and Taxes,
+Q,Samuel Hriljac,Miracles,,Lost,1,2,0,Tyler Marklyn,Tezzeret,Grixis
+Q,Conor Jacob,Jund,Punishing,Lost,0,2,0,Brad Rutherford,Burn,
+Q,Bill Li,Death and Taxes,,Lost,1,2,0,Jeremy Edwards,Eldrazi,12-Post
+Q,Tyler Marklyn,Tezzeret,Grixis,Won,2,1,0,Samuel Hriljac,Miracles,
+Q,Brad Rutherford,Burn,,Won,2,0,0,Conor Jacob,Jund,Punishing
+Q,Timothy Wilder,Miracles,,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+S,Jordan Aisaka,UWR Stoneblade,,Lost,0,2,0,Brad Rutherford,Burn,
+S,Jeremy Edwards,Eldrazi,12-Post,Lost,0,2,0,Tyler Marklyn,Tezzeret,Grixis
+S,Tyler Marklyn,Tezzeret,Grixis,Won,2,0,0,Jeremy Edwards,Eldrazi,12-Post
+S,Brad Rutherford,Burn,,Won,2,0,0,Jordan Aisaka,UWR Stoneblade,
+F,Tyler Marklyn,Tezzeret,Grixis,Lost,0,2,0,Brad Rutherford,Burn,
+F,Brad Rutherford,Burn,,Won,2,0,0,Tyler Marklyn,Tezzeret,Grixis

@@ -1,0 +1,292 @@
+Round,Player,Archetype,Sub Archetype,Result,Won,Lost,Drew,Opponent,Archetype,Sub Archetype
+1,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Isaac Conner,Burn,Rb
+1,Greg Banek,Werewolf Stompy,,Lost,1,2,0,Wesley Higbee,Shardless BUG,
+1,Michael Beck,Death and Taxes,,Won,2,1,0,Michael Maduell,Eldrazi,Tron
+1,Solomon Burgess,Grixis Pyromancer,,Won,2,0,0,Dan Mortensen,Nic Fit,Scapeshift
+1,Isaac Conner,Burn,Rb,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+1,Christopher Cornejo,UB Tempo,,Lost,1,2,0,Ethan Lightfoot,Aluren,
+1,Peter Cottell,4c Loam,,Lost,0,2,0,Chris Leclercq,Lands,RG
+1,David Dimalanta,12-Post,Bant,Won,1,0,0,Adam Prusa,Miracles,
+1,Jeremy Edwards,Enchantress,,Won,2,0,0,Timothy Wilder,Shardless BUG,
+1,Tj Flowers,Painter,UR,Won,2,0,0,Miles Wallio,Goblins,
+1,Christopher Fornace,Nic Fit,BUG,Won,2,0,0,James Johnson,RUG Delver,
+1,Hector Galindo,Miracles,,Lost,0,2,0,Frank Stanley,Aluren,
+1,Robert Goff,Dredge,,Won,2,1,0,Tyler Marklyn,Death and Taxes,
+1,Scott Griffen,Shardless BUG,,Won,2,1,0,George Hormel,Infect,
+1,Mike Harrison,Reanimator,,Lost,0,2,0,Jeff Lindner,Lands,RG
+1,Sasha Herda,Zombardment,,Won,2,1,0,Riley Klinger,Brave Sir Robin,
+1,Wesley Higbee,Shardless BUG,,Won,2,1,0,Greg Banek,Werewolf Stompy,
+1,George Hormel,Infect,,Lost,1,2,0,Scott Griffen,Shardless BUG,
+1,James Johnson,RUG Delver,,Lost,0,2,0,Christopher Fornace,Nic Fit,BUG
+1,Jeff Kinsey,Death and Taxes,,Drew,1,1,0,Michael Wallio,Burn,
+1,Riley Klinger,Brave Sir Robin,,Lost,1,2,0,Sasha Herda,Zombardment,
+1,Thomas Lancaster,Infect,,Won,2,0,0,Liam Tyrrell,Grixis Delver,
+1,Chris Leclercq,Lands,RG,Won,2,0,0,Peter Cottell,4c Loam,
+1,Bill Li,Death and Taxes,,Lost,0,2,0,Noah Marcus,Dredge,Manaless
+1,Timothy Li,Death and Taxes,,Won,2,1,0,Andy Stowell,Sneak and Show,
+1,Nathan Lickteig,Stiflenought,BUG,Lost,1,2,0,Shawn Yu,Miracles,
+1,Ethan Lightfoot,Aluren,,Won,2,1,0,Christopher Cornejo,UB Tempo,
+1,Jeff Lindner,Lands,RG,Won,2,0,0,Mike Harrison,Reanimator,
+1,Michael Maduell,Eldrazi,Tron,Lost,1,2,0,Michael Beck,Death and Taxes,
+1,Ed Mancebo,Infect,,Lost,0,2,0,David Wang,Grixis Delver,
+1,Noah Marcus,Dredge,Manaless,Won,2,0,0,Bill Li,Death and Taxes,
+1,Tyler Marklyn,Death and Taxes,,Lost,1,2,0,Robert Goff,Dredge,
+1,Rudy Maynard,4c Loam,,Won,2,1,0,Thilo Strauss,BUG Delver,
+1,Erik Mickel,MUD,12-Post,Lost,1,2,0,Michael Swailes,Miracles,
+1,Dan Mortensen,Nic Fit,Scapeshift,Lost,0,2,0,Solomon Burgess,Grixis Pyromancer,
+1,Daniel Nguyen,Eldrazi,,Lost,0,2,0,Peter Smutko,Tezzeret,UW
+1,Adam Prusa,Miracles,,Lost,0,1,0,David Dimalanta,12-Post,Bant
+1,Peter Smutko,Tezzeret,UW,Won,2,0,0,Daniel Nguyen,Eldrazi,
+1,Frank Stanley,Aluren,,Won,2,0,0,Hector Galindo,Miracles,
+1,Andy Stowell,Sneak and Show,,Lost,1,2,0,Timothy Li,Death and Taxes,
+1,Thilo Strauss,BUG Delver,,Lost,1,2,0,Rudy Maynard,4c Loam,
+1,Michael Swailes,Miracles,,Won,2,1,0,Erik Mickel,MUD,12-Post
+1,Patrick Tierney,Miracles,,Won,2,1,0,Ben Williams,Grixis Delver,
+1,Liam Tyrrell,Grixis Delver,,Lost,0,2,0,Thomas Lancaster,Infect,
+1,Michael Wallio,Burn,,Drew,1,1,0,Jeff Kinsey,Death and Taxes,
+1,Miles Wallio,Goblins,,Lost,0,2,0,Tj Flowers,Painter,UR
+1,David Wang,Grixis Delver,,Won,2,0,0,Ed Mancebo,Infect,
+1,Timothy Wilder,Shardless BUG,,Lost,0,2,0,Jeremy Edwards,Enchantress,
+1,Ben Williams,Grixis Delver,,Lost,1,2,0,Patrick Tierney,Miracles,
+1,Shawn Yu,Miracles,,Won,2,1,0,Nathan Lickteig,Stiflenought,BUG
+2,Jordan Aisaka,UWR Stoneblade,,Won,2,1,0,David Wang,Grixis Delver,
+2,Greg Banek,Werewolf Stompy,,Won,2,1,0,Hector Galindo,Miracles,
+2,Michael Beck,Death and Taxes,,Won,2,1,0,Timothy Li,Death and Taxes,
+2,Solomon Burgess,Grixis Pyromancer,,Won,2,1,0,Jeff Lindner,Lands,RG
+2,Isaac Conner,Burn,Rb,Lost,0,2,0,Adam Prusa,Miracles,
+2,Christopher Cornejo,UB Tempo,,Lost,1,2,0,Michael Wallio,Burn,
+2,Peter Cottell,4c Loam,,Lost,0,2,0,Timothy Wilder,Shardless BUG,
+2,David Dimalanta,12-Post,Bant,Won,2,0,0,Christopher Fornace,Nic Fit,BUG
+2,Jeremy Edwards,Enchantress,,Lost,0,2,0,Thomas Lancaster,Infect,
+2,Tj Flowers,Painter,UR,Won,2,0,0,Sasha Herda,Zombardment,
+2,Christopher Fornace,Nic Fit,BUG,Lost,0,2,0,David Dimalanta,12-Post,Bant
+2,Hector Galindo,Miracles,,Lost,1,2,0,Greg Banek,Werewolf Stompy,
+2,Robert Goff,Dredge,,Lost,0,2,0,Shawn Yu,Miracles,
+2,Scott Griffen,Shardless BUG,,Won,2,0,0,Frank Stanley,Aluren,
+2,Mike Harrison,Reanimator,,Won,2,0,0,Daniel Nguyen,Eldrazi,
+2,Sasha Herda,Zombardment,,Lost,0,2,0,Tj Flowers,Painter,UR
+2,Wesley Higbee,Shardless BUG,,Lost,0,2,0,Patrick Tierney,Miracles,
+2,George Hormel,Infect,,Lost,0,2,0,Dan Mortensen,Nic Fit,Scapeshift
+2,James Johnson,RUG Delver,,Won,2,0,0,Michael Maduell,Eldrazi,Tron
+2,Jeff Kinsey,Death and Taxes,,Won,2,0,0,Miles Wallio,Goblins,
+2,Riley Klinger,Brave Sir Robin,,Won,2,1,0,Nathan Lickteig,Stiflenought,BUG
+2,Thomas Lancaster,Infect,,Won,2,0,0,Jeremy Edwards,Enchantress,
+2,Chris Leclercq,Lands,RG,Won,2,0,0,Ethan Lightfoot,Aluren,
+2,Bill Li,Death and Taxes,,Won,2,0,0,Thilo Strauss,BUG Delver,
+2,Timothy Li,Death and Taxes,,Lost,1,2,0,Michael Beck,Death and Taxes,
+2,Nathan Lickteig,Stiflenought,BUG,Lost,1,2,0,Riley Klinger,Brave Sir Robin,
+2,Ethan Lightfoot,Aluren,,Lost,0,2,0,Chris Leclercq,Lands,RG
+2,Jeff Lindner,Lands,RG,Lost,1,2,0,Solomon Burgess,Grixis Pyromancer,
+2,Michael Maduell,Eldrazi,Tron,Lost,0,2,0,James Johnson,RUG Delver,
+2,Ed Mancebo,Infect,,Lost,0,2,0,Liam Tyrrell,Grixis Delver,
+2,Noah Marcus,Dredge,Manaless,Lost,1,2,0,Peter Smutko,Tezzeret,UW
+2,Tyler Marklyn,Death and Taxes,,Won,2,0,0,Andy Stowell,Sneak and Show,
+2,Rudy Maynard,4c Loam,,Won,2,0,0,Michael Swailes,Miracles,
+2,Erik Mickel,MUD,12-Post,Won,2,1,0,Ben Williams,Grixis Delver,
+2,Dan Mortensen,Nic Fit,Scapeshift,Won,2,0,0,George Hormel,Infect,
+2,Daniel Nguyen,Eldrazi,,Lost,0,2,0,Mike Harrison,Reanimator,
+2,Adam Prusa,Miracles,,Won,2,0,0,Isaac Conner,Burn,Rb
+2,Peter Smutko,Tezzeret,UW,Won,2,1,0,Noah Marcus,Dredge,Manaless
+2,Frank Stanley,Aluren,,Lost,0,2,0,Scott Griffen,Shardless BUG,
+2,Andy Stowell,Sneak and Show,,Lost,0,2,0,Tyler Marklyn,Death and Taxes,
+2,Thilo Strauss,BUG Delver,,Lost,0,2,0,Bill Li,Death and Taxes,
+2,Michael Swailes,Miracles,,Lost,0,2,0,Rudy Maynard,4c Loam,
+2,Patrick Tierney,Miracles,,Won,2,0,0,Wesley Higbee,Shardless BUG,
+2,Liam Tyrrell,Grixis Delver,,Won,2,0,0,Ed Mancebo,Infect,
+2,Michael Wallio,Burn,,Won,2,1,0,Christopher Cornejo,UB Tempo,
+2,Miles Wallio,Goblins,,Lost,0,2,0,Jeff Kinsey,Death and Taxes,
+2,David Wang,Grixis Delver,,Lost,1,2,0,Jordan Aisaka,UWR Stoneblade,
+2,Timothy Wilder,Shardless BUG,,Won,2,0,0,Peter Cottell,4c Loam,
+2,Ben Williams,Grixis Delver,,Lost,1,2,0,Erik Mickel,MUD,12-Post
+2,Shawn Yu,Miracles,,Won,2,0,0,Robert Goff,Dredge,
+3,Jordan Aisaka,UWR Stoneblade,,Won,2,1,0,Tj Flowers,Painter,UR
+3,Greg Banek,Werewolf Stompy,,Lost,0,2,0,Liam Tyrrell,Grixis Delver,
+3,Michael Beck,Death and Taxes,,Won,2,0,0,Rudy Maynard,4c Loam,
+3,Solomon Burgess,Grixis Pyromancer,,Won,2,1,0,Patrick Tierney,Miracles,
+3,Isaac Conner,Burn,Rb,Lost,0,2,0,George Hormel,Infect,
+3,Christopher Cornejo,UB Tempo,,Lost,0,2,0,Ben Williams,Grixis Delver,
+3,Peter Cottell,4c Loam,,Won,2,1,0,Thilo Strauss,BUG Delver,
+3,David Dimalanta,12-Post,Bant,Won,2,1,0,Shawn Yu,Miracles,
+3,Jeremy Edwards,Enchantress,,Won,2,0,0,Sasha Herda,Zombardment,
+3,Tj Flowers,Painter,UR,Lost,1,2,0,Jordan Aisaka,UWR Stoneblade,
+3,Christopher Fornace,Nic Fit,BUG,Won,2,0,0,Robert Goff,Dredge,
+3,Hector Galindo,Miracles,,Lost,0,2,0,Ed Mancebo,Infect,
+3,Robert Goff,Dredge,,Lost,0,2,0,Christopher Fornace,Nic Fit,BUG
+3,Scott Griffen,Shardless BUG,,Won,2,0,0,Thomas Lancaster,Infect,
+3,Mike Harrison,Reanimator,,Won,2,0,0,Michael Wallio,Burn,
+3,Sasha Herda,Zombardment,,Lost,0,2,0,Jeremy Edwards,Enchantress,
+3,Wesley Higbee,Shardless BUG,,Won,2,1,0,David Wang,Grixis Delver,
+3,George Hormel,Infect,,Won,2,0,0,Isaac Conner,Burn,Rb
+3,James Johnson,RUG Delver,,Lost,0,2,0,Timothy Wilder,Shardless BUG,
+3,Jeff Kinsey,Death and Taxes,,Won,2,0,0,Tyler Marklyn,Death and Taxes,
+3,Riley Klinger,Brave Sir Robin,,Won,2,1,0,Bill Li,Death and Taxes,
+3,Thomas Lancaster,Infect,,Lost,0,2,0,Scott Griffen,Shardless BUG,
+3,Chris Leclercq,Lands,RG,Lost,1,2,0,Peter Smutko,Tezzeret,UW
+3,Bill Li,Death and Taxes,,Lost,1,2,0,Riley Klinger,Brave Sir Robin,
+3,Timothy Li,Death and Taxes,,Lost,0,2,0,Dan Mortensen,Nic Fit,Scapeshift
+3,Nathan Lickteig,Stiflenought,BUG,Won,2,0,0,Daniel Nguyen,Eldrazi,
+3,Ethan Lightfoot,Aluren,,Lost,0,2,0,Adam Prusa,Miracles,
+3,Jeff Lindner,Lands,RG,Won,2,0,0,Michael Swailes,Miracles,
+3,Michael Maduell,Eldrazi,Tron,Won,2,1,0,Erik Mickel,MUD,12-Post
+3,Ed Mancebo,Infect,,Won,2,0,0,Hector Galindo,Miracles,
+3,Noah Marcus,Dredge,Manaless,Lost,1,2,0,Frank Stanley,Aluren,
+3,Tyler Marklyn,Death and Taxes,,Lost,0,2,0,Jeff Kinsey,Death and Taxes,
+3,Rudy Maynard,4c Loam,,Lost,0,2,0,Michael Beck,Death and Taxes,
+3,Erik Mickel,MUD,12-Post,Lost,1,2,0,Michael Maduell,Eldrazi,Tron
+3,Dan Mortensen,Nic Fit,Scapeshift,Won,2,0,0,Timothy Li,Death and Taxes,
+3,Daniel Nguyen,Eldrazi,,Lost,0,2,0,Nathan Lickteig,Stiflenought,BUG
+3,Adam Prusa,Miracles,,Won,2,0,0,Ethan Lightfoot,Aluren,
+3,Peter Smutko,Tezzeret,UW,Won,2,1,0,Chris Leclercq,Lands,RG
+3,Frank Stanley,Aluren,,Won,2,1,0,Noah Marcus,Dredge,Manaless
+3,Andy Stowell,Sneak and Show,,Won,2,0,0,Miles Wallio,Goblins,
+3,Thilo Strauss,BUG Delver,,Lost,1,2,0,Peter Cottell,4c Loam,
+3,Michael Swailes,Miracles,,Lost,0,2,0,Jeff Lindner,Lands,RG
+3,Patrick Tierney,Miracles,,Lost,1,2,0,Solomon Burgess,Grixis Pyromancer,
+3,Liam Tyrrell,Grixis Delver,,Won,2,0,0,Greg Banek,Werewolf Stompy,
+3,Michael Wallio,Burn,,Lost,0,2,0,Mike Harrison,Reanimator,
+3,Miles Wallio,Goblins,,Lost,0,2,0,Andy Stowell,Sneak and Show,
+3,David Wang,Grixis Delver,,Lost,1,2,0,Wesley Higbee,Shardless BUG,
+3,Timothy Wilder,Shardless BUG,,Won,2,0,0,James Johnson,RUG Delver,
+3,Ben Williams,Grixis Delver,,Won,2,0,0,Christopher Cornejo,UB Tempo,
+3,Shawn Yu,Miracles,,Lost,1,2,0,David Dimalanta,12-Post,Bant
+4,Jordan Aisaka,UWR Stoneblade,,Lost,1,2,0,Scott Griffen,Shardless BUG,
+4,Greg Banek,Werewolf Stompy,,Lost,0,2,0,David Wang,Grixis Delver,
+4,Michael Beck,Death and Taxes,,Lost,0,2,0,Peter Smutko,Tezzeret,UW
+4,Solomon Burgess,Grixis Pyromancer,,Lost,1,2,0,David Dimalanta,12-Post,Bant
+4,Peter Cottell,4c Loam,,Lost,1,2,0,Nathan Lickteig,Stiflenought,BUG
+4,David Dimalanta,12-Post,Bant,Won,2,1,0,Solomon Burgess,Grixis Pyromancer,
+4,Jeremy Edwards,Enchantress,,Drew,1,1,0,Rudy Maynard,4c Loam,
+4,Tj Flowers,Painter,UR,Won,2,1,0,Frank Stanley,Aluren,
+4,Christopher Fornace,Nic Fit,BUG,Lost,0,2,0,Jeff Kinsey,Death and Taxes,
+4,Hector Galindo,Miracles,,Lost,0,2,0,Thilo Strauss,BUG Delver,
+4,Scott Griffen,Shardless BUG,,Won,2,1,0,Jordan Aisaka,UWR Stoneblade,
+4,Mike Harrison,Reanimator,,Lost,0,2,0,Bill Li,Death and Taxes,
+4,Sasha Herda,Zombardment,,Won,2,1,0,Tyler Marklyn,Death and Taxes,
+4,Wesley Higbee,Shardless BUG,,Won,2,1,0,Liam Tyrrell,Grixis Delver,
+4,George Hormel,Infect,,Won,2,0,0,Miles Wallio,Goblins,
+4,James Johnson,RUG Delver,,Won,2,1,0,Timothy Li,Death and Taxes,
+4,Jeff Kinsey,Death and Taxes,,Won,2,0,0,Christopher Fornace,Nic Fit,BUG
+4,Riley Klinger,Brave Sir Robin,,Won,2,0,0,Thomas Lancaster,Infect,
+4,Thomas Lancaster,Infect,,Lost,0,2,0,Riley Klinger,Brave Sir Robin,
+4,Chris Leclercq,Lands,RG,Lost,0,2,0,Patrick Tierney,Miracles,
+4,Bill Li,Death and Taxes,,Won,2,0,0,Mike Harrison,Reanimator,
+4,Timothy Li,Death and Taxes,,Lost,1,2,0,James Johnson,RUG Delver,
+4,Nathan Lickteig,Stiflenought,BUG,Won,2,1,0,Peter Cottell,4c Loam,
+4,Ethan Lightfoot,Aluren,,Won,2,1,0,Ben Williams,Grixis Delver,
+4,Jeff Lindner,Lands,RG,Won,2,1,0,Michael Wallio,Burn,
+4,Michael Maduell,Eldrazi,Tron,Lost,0,2,0,Noah Marcus,Dredge,Manaless
+4,Noah Marcus,Dredge,Manaless,Won,2,0,0,Michael Maduell,Eldrazi,Tron
+4,Tyler Marklyn,Death and Taxes,,Lost,1,2,0,Sasha Herda,Zombardment,
+4,Rudy Maynard,4c Loam,,Drew,1,1,0,Jeremy Edwards,Enchantress,
+4,Erik Mickel,MUD,12-Post,Lost,1,2,0,Andy Stowell,Sneak and Show,
+4,Dan Mortensen,Nic Fit,Scapeshift,Won,2,0,0,Adam Prusa,Miracles,
+4,Adam Prusa,Miracles,,Lost,0,2,0,Dan Mortensen,Nic Fit,Scapeshift
+4,Peter Smutko,Tezzeret,UW,Won,2,0,0,Michael Beck,Death and Taxes,
+4,Frank Stanley,Aluren,,Lost,1,2,0,Tj Flowers,Painter,UR
+4,Andy Stowell,Sneak and Show,,Won,2,1,0,Erik Mickel,MUD,12-Post
+4,Thilo Strauss,BUG Delver,,Won,2,0,0,Hector Galindo,Miracles,
+4,Patrick Tierney,Miracles,,Won,2,0,0,Chris Leclercq,Lands,RG
+4,Liam Tyrrell,Grixis Delver,,Lost,1,2,0,Wesley Higbee,Shardless BUG,
+4,Michael Wallio,Burn,,Lost,1,2,0,Jeff Lindner,Lands,RG
+4,Miles Wallio,Goblins,,Lost,0,2,0,George Hormel,Infect,
+4,David Wang,Grixis Delver,,Won,2,0,0,Greg Banek,Werewolf Stompy,
+4,Timothy Wilder,Shardless BUG,,Lost,1,2,0,Shawn Yu,Miracles,
+4,Ben Williams,Grixis Delver,,Lost,1,2,0,Ethan Lightfoot,Aluren,
+4,Shawn Yu,Miracles,,Won,2,1,0,Timothy Wilder,Shardless BUG,
+5,Jordan Aisaka,UWR Stoneblade,,Lost,1,2,0,Patrick Tierney,Miracles,
+5,Greg Banek,Werewolf Stompy,,Won,2,0,0,Tyler Marklyn,Death and Taxes,
+5,Michael Beck,Death and Taxes,,Won,2,0,0,Wesley Higbee,Shardless BUG,
+5,Solomon Burgess,Grixis Pyromancer,,Won,2,0,0,Riley Klinger,Brave Sir Robin,
+5,Peter Cottell,4c Loam,,Won,2,0,0,Michael Maduell,Eldrazi,Tron
+5,David Dimalanta,12-Post,Bant,ID,1,1,0,Scott Griffen,Shardless BUG,
+5,Jeremy Edwards,Enchantress,,Won,2,1,0,Nathan Lickteig,Stiflenought,BUG
+5,Tj Flowers,Painter,UR,Won,2,1,0,Jeff Lindner,Lands,RG
+5,Christopher Fornace,Nic Fit,BUG,Lost,1,2,0,Thomas Lancaster,Infect,
+5,Hector Galindo,Miracles,,Drew,1,1,0,Miles Wallio,Goblins,
+5,Scott Griffen,Shardless BUG,,ID,1,1,0,David Dimalanta,12-Post,Bant
+5,Mike Harrison,Reanimator,,Lost,0,2,0,Timothy Wilder,Shardless BUG,
+5,Sasha Herda,Zombardment,,Won,2,0,0,Adam Prusa,Miracles,
+5,Wesley Higbee,Shardless BUG,,Lost,0,2,0,Michael Beck,Death and Taxes,
+5,George Hormel,Infect,,Won,2,1,0,Andy Stowell,Sneak and Show,
+5,James Johnson,RUG Delver,,Lost,1,2,0,Frank Stanley,Aluren,
+5,Jeff Kinsey,Death and Taxes,,Lost,0,2,0,Peter Smutko,Tezzeret,UW
+5,Riley Klinger,Brave Sir Robin,,Lost,0,2,0,Solomon Burgess,Grixis Pyromancer,
+5,Thomas Lancaster,Infect,,Won,2,1,0,Christopher Fornace,Nic Fit,BUG
+5,Chris Leclercq,Lands,RG,Won,2,0,0,Michael Wallio,Burn,
+5,Bill Li,Death and Taxes,,Lost,1,2,0,Ethan Lightfoot,Aluren,
+5,Timothy Li,Death and Taxes,,Won,2,0,0,Ben Williams,Grixis Delver,
+5,Nathan Lickteig,Stiflenought,BUG,Lost,1,2,0,Jeremy Edwards,Enchantress,
+5,Ethan Lightfoot,Aluren,,Won,2,1,0,Bill Li,Death and Taxes,
+5,Jeff Lindner,Lands,RG,Lost,1,2,0,Tj Flowers,Painter,UR
+5,Michael Maduell,Eldrazi,Tron,Lost,0,2,0,Peter Cottell,4c Loam,
+5,Noah Marcus,Dredge,Manaless,Lost,0,2,0,Liam Tyrrell,Grixis Delver,
+5,Tyler Marklyn,Death and Taxes,,Lost,0,2,0,Greg Banek,Werewolf Stompy,
+5,Rudy Maynard,4c Loam,,Won,2,0,0,David Wang,Grixis Delver,
+5,Erik Mickel,MUD,12-Post,Lost,0,2,0,Thilo Strauss,BUG Delver,
+5,Dan Mortensen,Nic Fit,Scapeshift,Won,2,1,0,Shawn Yu,Miracles,
+5,Adam Prusa,Miracles,,Lost,0,2,0,Sasha Herda,Zombardment,
+5,Peter Smutko,Tezzeret,UW,Won,2,0,0,Jeff Kinsey,Death and Taxes,
+5,Frank Stanley,Aluren,,Won,2,1,0,James Johnson,RUG Delver,
+5,Andy Stowell,Sneak and Show,,Lost,1,2,0,George Hormel,Infect,
+5,Thilo Strauss,BUG Delver,,Won,2,0,0,Erik Mickel,MUD,12-Post
+5,Patrick Tierney,Miracles,,Won,2,1,0,Jordan Aisaka,UWR Stoneblade,
+5,Liam Tyrrell,Grixis Delver,,Won,2,0,0,Noah Marcus,Dredge,Manaless
+5,Michael Wallio,Burn,,Lost,0,2,0,Chris Leclercq,Lands,RG
+5,Miles Wallio,Goblins,,Drew,1,1,0,Hector Galindo,Miracles,
+5,David Wang,Grixis Delver,,Lost,0,2,0,Rudy Maynard,4c Loam,
+5,Timothy Wilder,Shardless BUG,,Won,2,0,0,Mike Harrison,Reanimator,
+5,Ben Williams,Grixis Delver,,Lost,0,2,0,Timothy Li,Death and Taxes,
+5,Shawn Yu,Miracles,,Lost,1,2,0,Dan Mortensen,Nic Fit,Scapeshift
+6,Greg Banek,Werewolf Stompy,,Won,2,1,0,Mike Harrison,Reanimator,
+6,Michael Beck,Death and Taxes,,ID,1,1,0,David Dimalanta,12-Post,Bant
+6,Solomon Burgess,Grixis Pyromancer,,ID,1,1,0,Tj Flowers,Painter,UR
+6,Peter Cottell,4c Loam,,Lost,0,2,0,Bill Li,Death and Taxes,
+6,David Dimalanta,12-Post,Bant,ID,1,1,0,Michael Beck,Death and Taxes,
+6,Jeremy Edwards,Enchantress,,Won,2,0,0,Jeff Kinsey,Death and Taxes,
+6,Tj Flowers,Painter,UR,ID,1,1,0,Solomon Burgess,Grixis Pyromancer,
+6,Christopher Fornace,Nic Fit,BUG,Won,2,0,0,Ethan Lightfoot,Aluren,
+6,Hector Galindo,Miracles,,Lost,1,2,0,Erik Mickel,MUD,12-Post
+6,Scott Griffen,Shardless BUG,,ID,1,1,0,Peter Smutko,Tezzeret,UW
+6,Mike Harrison,Reanimator,,Lost,1,2,0,Greg Banek,Werewolf Stompy,
+6,Sasha Herda,Zombardment,,Lost,0,2,0,Frank Stanley,Aluren,
+6,Wesley Higbee,Shardless BUG,,Won,2,0,0,Riley Klinger,Brave Sir Robin,
+6,George Hormel,Infect,,Lost,0,2,0,Jeff Lindner,Lands,RG
+6,Jeff Kinsey,Death and Taxes,,Lost,0,2,0,Jeremy Edwards,Enchantress,
+6,Riley Klinger,Brave Sir Robin,,Lost,0,2,0,Wesley Higbee,Shardless BUG,
+6,Thomas Lancaster,Infect,,Lost,0,2,0,Rudy Maynard,4c Loam,
+6,Chris Leclercq,Lands,RG,Lost,0,2,0,Shawn Yu,Miracles,
+6,Bill Li,Death and Taxes,,Won,2,0,0,Peter Cottell,4c Loam,
+6,Timothy Li,Death and Taxes,,Won,2,0,0,Adam Prusa,Miracles,
+6,Nathan Lickteig,Stiflenought,BUG,Won,2,0,0,David Wang,Grixis Delver,
+6,Ethan Lightfoot,Aluren,,Lost,0,2,0,Christopher Fornace,Nic Fit,BUG
+6,Jeff Lindner,Lands,RG,Won,2,0,0,George Hormel,Infect,
+6,Michael Maduell,Eldrazi,Tron,Lost,0,2,0,Ben Williams,Grixis Delver,
+6,Rudy Maynard,4c Loam,,Won,2,0,0,Thomas Lancaster,Infect,
+6,Erik Mickel,MUD,12-Post,Won,2,1,0,Hector Galindo,Miracles,
+6,Dan Mortensen,Nic Fit,Scapeshift,Won,2,0,0,Patrick Tierney,Miracles,
+6,Adam Prusa,Miracles,,Lost,0,2,0,Timothy Li,Death and Taxes,
+6,Peter Smutko,Tezzeret,UW,ID,1,1,0,Scott Griffen,Shardless BUG,
+6,Frank Stanley,Aluren,,Won,2,0,0,Sasha Herda,Zombardment,
+6,Thilo Strauss,BUG Delver,,Won,2,0,0,Michael Wallio,Burn,
+6,Patrick Tierney,Miracles,,Lost,0,2,0,Dan Mortensen,Nic Fit,Scapeshift
+6,Liam Tyrrell,Grixis Delver,,Lost,1,2,0,Timothy Wilder,Shardless BUG,
+6,Michael Wallio,Burn,,Lost,0,2,0,Thilo Strauss,BUG Delver,
+6,Miles Wallio,Goblins,,Bye,,,,,,
+6,David Wang,Grixis Delver,,Lost,0,2,0,Nathan Lickteig,Stiflenought,BUG
+6,Timothy Wilder,Shardless BUG,,Won,2,1,0,Liam Tyrrell,Grixis Delver,
+6,Ben Williams,Grixis Delver,,Won,2,0,0,Michael Maduell,Eldrazi,Tron
+6,Shawn Yu,Miracles,,Won,2,0,0,Chris Leclercq,Lands,RG
+Q,Michael Beck,Death and Taxes,,Lost,1,2,0,Scott Griffen,Shardless BUG,
+Q,Solomon Burgess,Grixis Pyromancer,,Lost,0,2,0,David Dimalanta,12-Post,Bant
+Q,David Dimalanta,12-Post,Bant,Won,2,0,0,Solomon Burgess,Grixis Pyromancer,
+Q,Jeremy Edwards,Enchantress,,Won,2,0,0,Peter Smutko,Tezzeret,UW
+Q,Tj Flowers,Painter,UR,Won,2,0,0,Dan Mortensen,Nic Fit,Scapeshift
+Q,Scott Griffen,Shardless BUG,,Won,2,1,0,Michael Beck,Death and Taxes,
+Q,Dan Mortensen,Nic Fit,Scapeshift,Lost,0,2,0,Tj Flowers,Painter,UR
+Q,Peter Smutko,Tezzeret,UW,Lost,0,2,0,Jeremy Edwards,Enchantress,
+S,David Dimalanta,12-Post,Bant,Lost,0,2,0,Jeremy Edwards,Enchantress,
+S,Jeremy Edwards,Enchantress,,Won,2,0,0,David Dimalanta,12-Post,Bant
+S,Tj Flowers,Painter,UR,Lost,0,2,0,Scott Griffen,Shardless BUG,
+S,Scott Griffen,Shardless BUG,,Won,2,0,0,Tj Flowers,Painter,UR
+F,Jeremy Edwards,Enchantress,,Won,2,1,0,Scott Griffen,Shardless BUG,
+F,Scott Griffen,Shardless BUG,,Lost,1,2,0,Jeremy Edwards,Enchantress,
