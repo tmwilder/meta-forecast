@@ -6,7 +6,9 @@ import lombok.Getter;
 import org.skife.jdbi.v2.DBI;
 import org.skife.jdbi.v2.Handle;
 import org.skife.jdbi.v2.sqlobject.Bind;
+import org.skife.jdbi.v2.sqlobject.SqlQuery;
 import org.skife.jdbi.v2.sqlobject.SqlUpdate;
+
 
 @Builder
 @Getter
@@ -20,7 +22,6 @@ public class Player {
 		try {
 			PlayersInterface playersInterface = h.attach(PlayersInterface.class);
 			playersInterface.insert(
-					player.getPlayerId(),
 					player.getPlayerName(),
 					player.getIsLocal());
 		} finally {
@@ -28,14 +29,21 @@ public class Player {
 		}
 	}
 
+	public static Integer getIdByPlayerName(String playerName, boolean isLocal, DBI dbi){
+		Handle h = dbi.open();
+		try {
+			PlayersInterface playersInterface = h.attach(PlayersInterface.class);
+			return playersInterface.getIdByPlayerName(playerName, isLocal);
+		} finally {
+			h.close();
+		}
+	}
+
 	private interface PlayersInterface {
-		@SqlUpdate(
-				"insert into tournaments " +
-						"(player_id, player_name, is_local) " +
-						"values (:playerId, :playerName, :isLocal)")
-		int insert(
-				@Bind("playerId") int playerId,
-				@Bind("playerName") String playerName,
-				@Bind("isLocal") boolean isLocal);
+		@SqlUpdate("insert into players (name, is_local) values (:playerName, :isLocal)")
+		int insert(@Bind("playerName") String playerName, @Bind("isLocal") boolean isLocal);
+
+		@SqlQuery("select player_id from players where name = :playerName and is_local = :isLocal")
+		Integer getIdByPlayerName(@Bind("playerName") String playerName, @Bind("isLocal") boolean isLocal);
 	}
 }

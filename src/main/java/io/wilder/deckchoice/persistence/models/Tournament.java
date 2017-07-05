@@ -7,6 +7,7 @@ import lombok.Getter;
 import org.skife.jdbi.v2.DBI;
 import org.skife.jdbi.v2.Handle;
 import org.skife.jdbi.v2.sqlobject.Bind;
+import org.skife.jdbi.v2.sqlobject.SqlQuery;
 import org.skife.jdbi.v2.sqlobject.SqlUpdate;
 
 @Builder
@@ -22,7 +23,6 @@ public class Tournament {
 		try {
 			TournamentstInterface tournamentstInterface = h.attach(TournamentstInterface.class);
 			tournamentstInterface.insert(
-					tournament.getTournamentId(),
 					tournament.getCity(),
 					tournament.getStore(),
 					tournament.getDatePlayed());
@@ -31,13 +31,30 @@ public class Tournament {
 		}
 	}
 
+	public static Integer getIdByKeyValues(String city, String store, LocalDate datePlayed, DBI dbi){
+		Handle h = dbi.open();
+		try {
+			TournamentstInterface tournamentstInterface = h.attach(TournamentstInterface.class);
+			return tournamentstInterface.getIdByKeyValues(city, store, datePlayed);
+		} finally {
+			h.close();
+		}
+	}
+
 	private interface TournamentstInterface {
 		@SqlUpdate(
 				"insert into tournaments " +
-					"(tournament_id, city, store, date_played) " +
-					"values (:tournamentId, :city, :store, :datePlayed)")
+					"(city, store, date_played) " +
+					"values (:city, :store, :datePlayed)")
 		int insert(
-				@Bind("tournamentId") int tournamentId,
+				@Bind("city") String city,
+				@Bind("store") String store,
+				@Bind("datePlayed") LocalDate datePlayed);
+
+		@SqlQuery(
+				"select tournament_id from tournaments " +
+					"where city = :city and store = :store and date_played = :datePlayed")
+		Integer getIdByKeyValues(
 				@Bind("city") String city,
 				@Bind("store") String store,
 				@Bind("datePlayed") LocalDate datePlayed);

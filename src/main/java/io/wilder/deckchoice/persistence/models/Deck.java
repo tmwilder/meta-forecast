@@ -6,6 +6,7 @@ import lombok.Getter;
 import org.skife.jdbi.v2.DBI;
 import org.skife.jdbi.v2.Handle;
 import org.skife.jdbi.v2.sqlobject.Bind;
+import org.skife.jdbi.v2.sqlobject.SqlQuery;
 import org.skife.jdbi.v2.sqlobject.SqlUpdate;
 
 @Builder
@@ -18,14 +19,27 @@ public class Deck {
 		Handle h = dbi.open();
 		try {
 			DecksInterface deckInterface = h.attach(DecksInterface.class);
-			deckInterface.insert(deck.getDeckId(), deck.getName());
+			deckInterface.insert(deck.getName());
+		} finally {
+			h.close();
+		}
+	}
+
+	public static Integer getIdByDeckName(String deckName, DBI dbi){
+		Handle h = dbi.open();
+		try {
+			DecksInterface decksInterface = h.attach(DecksInterface.class);
+			return decksInterface.getIdByDeckName(deckName);
 		} finally {
 			h.close();
 		}
 	}
 
 	private interface DecksInterface {
-		@SqlUpdate("insert into deck (deck_id, name) values (:deckId, :name)")
-		int insert(@Bind("deckId") int deckId, @Bind("name") String name);
+		@SqlUpdate("insert into decks (name) values (:name)")
+		int insert(@Bind("name") String name);
+
+		@SqlQuery("select deck_id from decks where name = :deckName")
+		Integer getIdByDeckName(@Bind("deckName") String deckName);
 	}
 }

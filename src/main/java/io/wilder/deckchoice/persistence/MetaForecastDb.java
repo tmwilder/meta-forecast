@@ -24,31 +24,31 @@ public class MetaForecastDb {
 		Handle h = dbi.open();
 		h.execute(
 				"CREATE TABLE players (" +
-						"player_id integer primary key, " +
+						"player_id integer primary key autoincrement, " +
 						"name varchar(64), " +
 						"is_local boolean" +
-						")"
+					")"
 		);
 
 		h.execute(
 				"CREATE TABLE decks (" +
-						"deck_id integer primary key, " +
+						"deck_id integer primary key autoincrement, " +
 						"name varchar(64) " +
-						")"
+					")"
 		);
 
 		h.execute(
 				"CREATE TABLE tournaments (" +
-						"tournament_id integer primary key, " +
+						"tournament_id integer primary key autoincrement, " +
 						"city varchar(64), " +
 						"store varchar(64), " +
 						"date_played date " +
-						")"
+					")"
 		);
 
 		h.execute(
 				"CREATE TABLE matches (" +
-						"match_id integer primary key, " +
+						"match_id integer primary key autoincrement, " +
 						"player_1 integer, " +
 						"player_2 integer, " +
 						"player_1_deck integer, " +
@@ -63,7 +63,7 @@ public class MetaForecastDb {
 						"FOREIGN KEY (player_1_deck) REFERENCES decks (deck_id) , " +
 						"FOREIGN KEY (player_2_deck) REFERENCES decks (deck_id) , " +
 						"FOREIGN KEY (tournament_id) REFERENCES tournaments (tournament_id)" +
-						")"
+					")"
 		);
 	}
 

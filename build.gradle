@@ -32,10 +32,11 @@ sourceSets {
 }
 
 dependencies {
-    // The production code uses Guava
-    compile 'com.google.guava:guava:20.0'
+    compile group: 'com.google.guava', name: 'guava', 'version': '22.0'
+    compile group: 'com.opencsv', name: 'opencsv', 'version': '3.9'
     compile group: 'commons-collections', name: 'commons-collections', 'version': '3.2.2'
     compile group: 'org.jdbi', name: 'jdbi', 'version': '2.78'
+    compile group: 'org.springframework', name: 'spring-core', 'version': '4.3.9.RELEASE'
     compile group: 'org.projectlombok', name: 'lombok', 'version': '1.16.16'
     compile group: 'org.xerial', name: 'sqlite-jdbc', 'version': '3.19.3'
 
@@ -48,4 +49,3 @@ version = '1.0'
 
 // Define the main class for the application
 mainClassName = 'io.wilder.deckchoice.App'
-
