@@ -4,6 +4,7 @@ package io.wilder.deckchoice.etl;
 import com.opencsv.bean.CsvToBeanBuilder;
 import io.wilder.deckchoice.enums.Result;
 import io.wilder.deckchoice.etl.mox.MatchDataBean;
+import io.wilder.deckchoice.etl.mox.MoxPlayerAliases;
 import io.wilder.deckchoice.persistence.MetaForecastDb;
 import io.wilder.deckchoice.persistence.models.Deck;
 import io.wilder.deckchoice.persistence.models.Match;
@@ -61,7 +62,6 @@ public class MoxDataEtl {
 					bean.setPlayedOnDate(playedOnDate);
 				}
 
-				beans = dedupeMatchInputs(beans);
 				allMatches.addAll(beans);
 
 			} catch (FileNotFoundException e){
@@ -108,12 +108,26 @@ public class MoxDataEtl {
 	}
 
 	private static List<Match> transform(List<MatchDataBean> matchData){
+		matchData = dedupeMatchInputs(matchData);
+
 		List<Match> matches = new LinkedList<>();
 		for (MatchDataBean matchDataBean: matchData){
+
+			String player = matchDataBean.getPlayer();
+			String opponent = matchDataBean.getOpponent();
+
+			if (MoxPlayerAliases.playerAliases.containsKey(player)){
+				player = MoxPlayerAliases.playerAliases.get(player);
+			}
+
+			if (MoxPlayerAliases.playerAliases.containsKey(opponent)){
+				opponent = MoxPlayerAliases.playerAliases.get(opponent);
+			}
+
 			Match match = Match.builder()
 				.draws(matchDataBean.getDrew())
-				.player1Name(matchDataBean.getPlayer())
-				.player2Name(matchDataBean.getOpponent())
+				.player1Name(player)
+				.player2Name(opponent)
 				.player1Wins(matchDataBean.getWon())
 				.player2Wins(matchDataBean.getLost())
 				.player1DeckName(matchDataBean.getArchetype())
