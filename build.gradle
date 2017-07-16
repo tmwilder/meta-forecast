@@ -48,4 +48,4 @@ sourceCompatibility = 1.8
 version = '1.0'
 
 // Define the main class for the application
-mainClassName = 'io.wilder.deckchoice.App'
+mainClassName = 'io.wilder.deckchoice.MetaForecastPipeline'

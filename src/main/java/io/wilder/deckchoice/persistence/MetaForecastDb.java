@@ -26,6 +26,7 @@ public class MetaForecastDb {
 				"CREATE TABLE players (" +
 						"player_id integer primary key autoincrement, " +
 						"name varchar(64), " +
+						"elo integer, " +
 						"is_local boolean" +
 					")"
 		);
