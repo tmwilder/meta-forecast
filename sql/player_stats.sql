@@ -7,6 +7,7 @@ SELECT * from
        sum(CASE WHEN (m.result = 'UNINTENTIONAL_DRAW') then 1 else 0 END) as draws
      FROM matches m
        INNER JOIN players p1 on p1.player_id = m.player_1
+       inner join tournaments t on m.tournament_id = t.tournament_id and t.date_played >= '2016-07-29'
      GROUP BY m.player_1
 
      UNION ALL
@@ -18,7 +19,9 @@ SELECT * from
        sum(CASE WHEN (m.result = 'UNINTENTIONAL_DRAW') then 1 else 0 END) as draws
      FROM matches m
        INNER JOIN players p2 on p2.player_id = m.player_2
-     GROUP BY m.player_1)
+       inner join tournaments t on m.tournament_id = t.tournament_id and t.date_played >= '2016-07-29'
+     GROUP BY m.player_2)
   GROUP BY player
-  ORDER BY winrate desc)
-WHERE total_wins >= 20;
+   ORDER BY winrate desc)
+WHERE (total_wins + total_losses) > 30;
+
