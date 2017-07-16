@@ -17,7 +17,7 @@ import org.skife.jdbi.v2.DBI;
 public class Elo {
 	private static final int STARTING_ELO = 1500;
 	private static final int PROVISIONAL_K_VALUE = 32;
-	private static final int K_VALUE = 32;
+	private static final int K_VALUE = 16;
 
 	public static void updateElos(){
 		DBI foreCastDbi = MetaForecastDb.getDbi();
@@ -43,6 +43,7 @@ public class Elo {
 			Optional<NewPlayerElos> newPlayerElos = getNewPlayerElos(player1Elo, player2Elo, result);
 			if (newPlayerElos.isPresent()){
 				playerElos.put(match.getPlayer1(), newPlayerElos.get().getNewRatingPlayer1());
+				playerElos.put(match.getPlayer2(), newPlayerElos.get().getNewRatingPlayer2());
 			}
 		}
 		return playerElos;

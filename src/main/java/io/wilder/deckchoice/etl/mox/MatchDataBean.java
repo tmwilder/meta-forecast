@@ -84,4 +84,12 @@ public class MatchDataBean {
 		}
 		return hasher.hash().asInt();
 	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (obj == null) {
+			return false;
+		}
+		return (obj.hashCode() == this.hashCode());
+	}
 }

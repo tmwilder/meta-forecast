@@ -85,7 +85,7 @@ public class MoxDataEtl {
 		}
 	}
 
-	private static List<MatchDataBean> dedupeMatchInputs(List<MatchDataBean> matchDataBeans){
+	static List<MatchDataBean> dedupeMatchInputs(List<MatchDataBean> matchDataBeans){
 		Set<MatchDataBean> matchDataBeanSet = new HashSet<>();
 		for (MatchDataBean matchDataBean: matchDataBeans){
 			matchDataBeanSet.add(matchDataBean);
