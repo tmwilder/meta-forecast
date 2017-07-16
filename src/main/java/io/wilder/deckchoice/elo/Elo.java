@@ -17,7 +17,7 @@ import org.skife.jdbi.v2.DBI;
 public class Elo {
 	private static final int STARTING_ELO = 1500;
 	private static final int PROVISIONAL_K_VALUE = 32;
-	private static final int K_VALUE = 16;
+	private static final int K_VALUE = 32;
 
 	public static void updateElos(){
 		DBI foreCastDbi = MetaForecastDb.getDbi();

@@ -10,10 +10,10 @@ public class EloTest {
 	@Test
 	public void testGetNewRating(){
 		double result = Elo.getNewRating(1583, 1, .52);
-		Assert.assertEquals(1591, result, .01);
+		Assert.assertEquals(1599, result, .01);
 
 		double result2 = Elo.getNewRating(1572, 0, .48);
-		Assert.assertEquals(1565, result2, .01);
+		Assert.assertEquals(1557, result2, .01);
 
 	}
 
@@ -33,18 +33,18 @@ public class EloTest {
 	public void testGetNewPlayerElos() {
 		Optional<Elo.NewPlayerElos> result = Elo.getNewPlayerElos(1511, 1810, Result.PLAYER_2_WIN);
 
-		Assert.assertEquals(Integer.valueOf(1509), result.get().getNewRatingPlayer1());
-		Assert.assertEquals(Integer.valueOf(1813), result.get().getNewRatingPlayer2());
+		Assert.assertEquals(Integer.valueOf(1507), result.get().getNewRatingPlayer1());
+		Assert.assertEquals(Integer.valueOf(1815), result.get().getNewRatingPlayer2());
 
 		Optional<Elo.NewPlayerElos> result2 = Elo.getNewPlayerElos(1511, 1810, Result.PLAYER_2_RULES_WIN);
 		Assert.assertEquals(Optional.empty(), result2);
 
 		Optional<Elo.NewPlayerElos> result3 = Elo.getNewPlayerElos(1511, 1810, Result.PLAYER_1_WIN);
-		Assert.assertEquals(Integer.valueOf(1525), result3.get().getNewRatingPlayer1());
-		Assert.assertEquals(Integer.valueOf(1797), result3.get().getNewRatingPlayer2());
+		Assert.assertEquals(Integer.valueOf(1539), result3.get().getNewRatingPlayer1());
+		Assert.assertEquals(Integer.valueOf(1783), result3.get().getNewRatingPlayer2());
 
 		Optional<Elo.NewPlayerElos> result4 = Elo.getNewPlayerElos(1511, 1810, Result.UNINTENTIONAL_DRAW);
-		Assert.assertEquals(Integer.valueOf(1517), result4.get().getNewRatingPlayer1());
-		Assert.assertEquals(Integer.valueOf(1805), result4.get().getNewRatingPlayer2());
+		Assert.assertEquals(Integer.valueOf(1523), result4.get().getNewRatingPlayer1());
+		Assert.assertEquals(Integer.valueOf(1799), result4.get().getNewRatingPlayer2());
 	}
 }
