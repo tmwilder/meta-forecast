@@ -16,6 +16,8 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -24,6 +26,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 import org.skife.jdbi.v2.DBI;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
@@ -38,13 +41,20 @@ public class MoxDataEtl {
 	}
 
 	private static List<MatchDataBean> extract(){
-		Resource[] resources = getResources();
+		List<Resource> resources = Arrays.asList(getResources());
+
+		resources = resources.stream()
+				.sorted(new Comparator<Resource>(){
+					public int compare(Resource o1, Resource o2){
+						return getPlayedOnDate(o1).compareTo(getPlayedOnDate(o2));
+					}
+				})
+				.collect(Collectors.toList());
+
 
 		List<MatchDataBean> allMatches = new LinkedList<>();
-		for (int i = 0; i < resources.length; i++){
+		for (Resource resource: resources){
 			try {
-				Resource resource = resources[i];
-
 				List<MatchDataBean> beans = new CsvToBeanBuilder<>(new FileReader(resource.getFile()))
 						.withType(MatchDataBean.class)
 						.withSeparator(',')
