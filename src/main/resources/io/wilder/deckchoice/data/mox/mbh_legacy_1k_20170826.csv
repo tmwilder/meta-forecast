@@ -1,0 +1,287 @@
+Round,Player,Archetype,Sub Archetype,Result,Won,Lost,Drew,Opponent,Archetype,Sub Archetype
+1,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Dan Mortensen,UR Control,Punishing Thing
+1,Brian Andersen,Food Chain,,Lost,1,2,0,Zac Forshee,UWR Stoneblade,
+1,Dave Asbury,Turbo Depths,Junk,Won,2,1,0,Nicholas Trettel,BUG Delver,
+1,Shane Ash,Turbo Depths,,Lost,1,2,0,Bryce Tippett,Enchantress,GWb
+1,Brian Bennett,Show and Tell,Omni/Sneak,Won,2,0,0,Justin Hrala,Eldrazi,
+1,Steven Britton,Aluren,BUG,Drew,1,1,1,Michael Wallio,Grixis Control,Ninjas
+1,Randy Buehler,Czech Pile,,Won,2,0,0,Samuel Fairchild,Grixis Delver,
+1,Solomon Burgess,RUG Delver,,Won,2,1,0,Andy Stowell,Czech Pile,
+1,Patrick Casey,Imperial Painter,RW,Lost,0,2,0,Samuel Hriljac,Miracles,
+1,Joseph Christensen,4c Loam,,Lost,1,2,0,Bill Li,Death and Taxes,
+1,Alonso Cisternas,Jund,Punishing,Won,2,1,0,Robert Starke,BR Reanimator,
+1,Christopher Cornejo,Czech Pile,,Lost,0,2,0,Shawn Yu,Czech Pile,
+1,John Donati,Death and Taxes,,Lost,1,2,0,Michael Tessier,Grixis Control,
+1,Jeremy Edwards,Tin Fins,,Won,2,1,0,Michael Swailes,Grixis Delver,
+1,Samuel Fairchild,Grixis Delver,,Lost,0,2,0,Randy Buehler,Czech Pile,
+1,Zac Forshee,UWR Stoneblade,,Won,2,1,0,Brian Andersen,Food Chain,
+1,Justin Hrala,Eldrazi,,Lost,0,2,0,Brian Bennett,Show and Tell,Omni/Sneak
+1,Samuel Hriljac,Miracles,,Won,2,0,0,Patrick Casey,Imperial Painter,RW
+1,Rob Hunsaker,Show and Tell,Sneak,Won,2,0,0,Raul Mendoza,Burn,
+1,James Johnson,Storm,"ANT, Entomb",Won,2,1,0,Timothy Wilder,Bant Deathblade,
+1,Mike Kiesel,Combo Lands,RG,Lost,0,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+1,Joel Kittinger,Pox,Bw,Won,2,0,0,Sam Tang,Grixis Delver,
+1,Bill Li,Death and Taxes,,Won,2,1,0,Joseph Christensen,4c Loam,
+1,Timothy Li,Death and Taxes,,Lost,1,2,0,Biondi Lun,Show and Tell,"Omni, UB"
+1,Biondi Lun,Show and Tell,"Omni, UB",Won,2,1,0,Timothy Li,Death and Taxes,
+1,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,0,0,Mike Kiesel,Combo Lands,RG
+1,Tyler Marklyn,Bant,Brave Sir Robin,Won,2,1,0,Tom Williams,Tezzeret,Grixis
+1,Russell Martin,Miracles,,Won,2,1,0,Marco Martinez,Combo Lands,RG
+1,Marco Martinez,Combo Lands,RG,Lost,1,2,0,Russell Martin,Miracles,
+1,Jake Mccune,Maverick,,Won,2,1,0,Josh Monks,UR Delver,
+1,Gary Mcneely,Elves,,Won,2,1,0,Randy Yao,Elves,
+1,Raul Mendoza,Burn,,Lost,0,2,0,Rob Hunsaker,Show and Tell,Sneak
+1,Greg Mitchell,Czech Pile,,Lost,0,2,0,Nicholas Ragazzo,Elves,
+1,Josh Monks,UR Delver,,Lost,1,2,0,Jake Mccune,Maverick,
+1,Dan Mortensen,UR Control,Punishing Thing,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+1,Adam Prusa,Combo Lands,RG,Drew,1,1,0,Jason Schlieger,Czech Pile,
+1,Nicholas Ragazzo,Elves,,Won,2,0,0,Greg Mitchell,Czech Pile,
+1,Jason Schlieger,Czech Pile,,Drew,1,1,0,Adam Prusa,Combo Lands,RG
+1,Alex Scott,Deadguy Ale,,Won,2,1,0,Christopher Sorenson,Death and Taxes,
+1,Christopher Sorenson,Death and Taxes,,Lost,1,2,0,Alex Scott,Deadguy Ale,
+1,Robert Starke,BR Reanimator,,Lost,1,2,0,Alonso Cisternas,Jund,Punishing
+1,Andy Stowell,Czech Pile,,Lost,1,2,0,Solomon Burgess,RUG Delver,
+1,Michael Swailes,Grixis Delver,,Lost,1,2,0,Jeremy Edwards,Tin Fins,
+1,Sam Tang,Grixis Delver,,Lost,0,2,0,Joel Kittinger,Pox,Bw
+1,Michael Tessier,Grixis Control,,Won,2,1,0,John Donati,Death and Taxes,
+1,Bryce Tippett,Enchantress,GWb,Won,2,1,0,Shane Ash,Turbo Depths,
+1,Nicholas Trettel,BUG Delver,,Lost,1,2,0,Dave Asbury,Turbo Depths,Junk
+1,Michael Wallio,Grixis Control,Ninjas,Drew,1,1,1,Steven Britton,Aluren,BUG
+1,Timothy Wilder,Bant Deathblade,,Lost,1,2,0,James Johnson,Storm,"ANT, Entomb"
+1,Tom Williams,Tezzeret,Grixis,Lost,1,2,0,Tyler Marklyn,Bant,Brave Sir Robin
+1,Randy Yao,Elves,,Lost,1,2,0,Gary Mcneely,Elves,
+1,Shawn Yu,Czech Pile,,Won,2,0,0,Christopher Cornejo,Czech Pile,
+2,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Tyler Marklyn,Bant,Brave Sir Robin
+2,Brian Andersen,Food Chain,,Lost,1,2,0,Samuel Fairchild,Grixis Delver,
+2,Dave Asbury,Turbo Depths,Junk,Lost,0,2,0,Adam Prusa,Combo Lands,RG
+2,Shane Ash,Turbo Depths,,Lost,1,2,0,Patrick Casey,Imperial Painter,RW
+2,Brian Bennett,Show and Tell,Omni/Sneak,Won,2,1,0,Solomon Burgess,RUG Delver,
+2,Steven Britton,Aluren,BUG,Won,2,1,0,Timothy Li,Death and Taxes,
+2,Randy Buehler,Czech Pile,,Won,2,1,0,Biondi Lun,Show and Tell,"Omni, UB"
+2,Solomon Burgess,RUG Delver,,Lost,1,2,0,Brian Bennett,Show and Tell,Omni/Sneak
+2,Patrick Casey,Imperial Painter,RW,Won,2,1,0,Shane Ash,Turbo Depths,
+2,Joseph Christensen,4c Loam,,Lost,1,2,0,Randy Yao,Elves,
+2,Alonso Cisternas,Jund,Punishing,Lost,0,2,0,James Johnson,Storm,"ANT, Entomb"
+2,John Donati,Death and Taxes,,Won,2,1,0,Robert Starke,BR Reanimator,
+2,Jeremy Edwards,Tin Fins,,Lost,0,2,0,Russell Martin,Miracles,
+2,Samuel Fairchild,Grixis Delver,,Won,2,1,0,Brian Andersen,Food Chain,
+2,Zac Forshee,UWR Stoneblade,,Won,2,0,0,Bill Li,Death and Taxes,
+2,Justin Hrala,Eldrazi,,Won,2,1,0,Raul Mendoza,Burn,
+2,Samuel Hriljac,Miracles,,Drew,1,1,0,Michael Tessier,Grixis Control,
+2,Rob Hunsaker,Show and Tell,Sneak,Lost,0,2,0,Jake Mccune,Maverick,
+2,James Johnson,Storm,"ANT, Entomb",Won,2,0,0,Alonso Cisternas,Jund,Punishing
+2,Mike Kiesel,Combo Lands,RG,Lost,0,2,0,Nicholas Trettel,BUG Delver,
+2,Jeff Kinsey,Goblins,Rb,Lost,0,2,0,Nicholas Ragazzo,Elves,
+2,Joel Kittinger,Pox,Bw,Lost,1,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+2,Bill Li,Death and Taxes,,Lost,0,2,0,Zac Forshee,UWR Stoneblade,
+2,Timothy Li,Death and Taxes,,Lost,1,2,0,Steven Britton,Aluren,BUG
+2,Biondi Lun,Show and Tell,"Omni, UB",Lost,1,2,0,Randy Buehler,Czech Pile,
+2,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,1,0,Joel Kittinger,Pox,Bw
+2,Tyler Marklyn,Bant,Brave Sir Robin,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+2,Russell Martin,Miracles,,Won,2,0,0,Jeremy Edwards,Tin Fins,
+2,Marco Martinez,Combo Lands,RG,Lost,0,2,0,Greg Mitchell,Czech Pile,
+2,Jake Mccune,Maverick,,Won,2,0,0,Rob Hunsaker,Show and Tell,Sneak
+2,Gary Mcneely,Elves,,Won,2,1,0,Bryce Tippett,Enchantress,GWb
+2,Raul Mendoza,Burn,,Lost,1,2,0,Justin Hrala,Eldrazi,
+2,Greg Mitchell,Czech Pile,,Won,2,0,0,Marco Martinez,Combo Lands,RG
+2,Josh Monks,UR Delver,,Won,2,0,0,Michael Swailes,Grixis Delver,
+2,Dan Mortensen,UR Control,Punishing Thing,Lost,0,2,0,Timothy Wilder,Bant Deathblade,
+2,Adam Prusa,Combo Lands,RG,Won,2,0,0,Dave Asbury,Turbo Depths,Junk
+2,Nicholas Ragazzo,Elves,,Won,2,0,0,Jeff Kinsey,Goblins,Rb
+2,Jason Schlieger,Czech Pile,,Lost,1,2,0,Michael Wallio,Grixis Control,Ninjas
+2,Alex Scott,Deadguy Ale,,Lost,0,2,0,Shawn Yu,Czech Pile,
+2,Christopher Sorenson,Death and Taxes,,Won,2,0,0,Sam Tang,Grixis Delver,
+2,Robert Starke,BR Reanimator,,Lost,1,2,0,John Donati,Death and Taxes,
+2,Andy Stowell,Czech Pile,,Won,2,1,0,Tom Williams,Tezzeret,Grixis
+2,Michael Swailes,Grixis Delver,,Lost,0,2,0,Josh Monks,UR Delver,
+2,Sam Tang,Grixis Delver,,Lost,0,2,0,Christopher Sorenson,Death and Taxes,
+2,Michael Tessier,Grixis Control,,Drew,1,1,0,Samuel Hriljac,Miracles,
+2,Bryce Tippett,Enchantress,GWb,Lost,1,2,0,Gary Mcneely,Elves,
+2,Nicholas Trettel,BUG Delver,,Won,2,0,0,Mike Kiesel,Combo Lands,RG
+2,Michael Wallio,Grixis Control,Ninjas,Won,2,1,0,Jason Schlieger,Czech Pile,
+2,Timothy Wilder,Bant Deathblade,,Won,2,0,0,Dan Mortensen,UR Control,Punishing Thing
+2,Tom Williams,Tezzeret,Grixis,Lost,1,2,0,Andy Stowell,Czech Pile,
+2,Randy Yao,Elves,,Won,2,1,0,Joseph Christensen,4c Loam,
+2,Shawn Yu,Czech Pile,,Won,2,0,0,Alex Scott,Deadguy Ale,
+3,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Zac Forshee,UWR Stoneblade,
+3,Brian Andersen,Food Chain,,Lost,1,2,0,Alex Scott,Deadguy Ale,
+3,Dave Asbury,Turbo Depths,Junk,Lost,1,2,0,Timothy Wilder,Bant Deathblade,
+3,Shane Ash,Turbo Depths,,Lost,1,2,0,Tom Williams,Tezzeret,Grixis
+3,Brian Bennett,Show and Tell,Omni/Sneak,Won,2,0,0,Jake Mccune,Maverick,
+3,Steven Britton,Aluren,BUG,Lost,1,2,0,Michael Tessier,Grixis Control,
+3,Randy Buehler,Czech Pile,,Lost,0,2,0,Nicholas Ragazzo,Elves,
+3,Solomon Burgess,RUG Delver,,Won,2,1,0,Jeremy Edwards,Tin Fins,
+3,Patrick Casey,Imperial Painter,RW,Lost,0,2,0,Christopher Cornejo,Czech Pile,
+3,Joseph Christensen,4c Loam,,Won,2,1,0,Robert Starke,BR Reanimator,
+3,Alonso Cisternas,Jund,Punishing,Won,2,1,0,Rob Hunsaker,Show and Tell,Sneak
+3,Christopher Cornejo,Czech Pile,,Won,2,0,0,Patrick Casey,Imperial Painter,RW
+3,John Donati,Death and Taxes,,Lost,0,2,0,Randy Yao,Elves,
+3,Jeremy Edwards,Tin Fins,,Lost,1,2,0,Solomon Burgess,RUG Delver,
+3,Samuel Fairchild,Grixis Delver,,Lost,1,2,0,Bryce Tippett,Enchantress,GWb
+3,Zac Forshee,UWR Stoneblade,,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+3,Justin Hrala,Eldrazi,,Lost,0,2,0,Bill Li,Death and Taxes,
+3,Samuel Hriljac,Miracles,,Lost,0,2,0,James Johnson,Storm,"ANT, Entomb"
+3,Rob Hunsaker,Show and Tell,Sneak,Lost,1,2,0,Alonso Cisternas,Jund,Punishing
+3,James Johnson,Storm,"ANT, Entomb",Won,2,0,0,Samuel Hriljac,Miracles,
+3,Jeff Kinsey,Goblins,Rb,Won,2,0,0,Andy Stowell,Czech Pile,
+3,Joel Kittinger,Pox,Bw,Lost,0,2,0,Greg Mitchell,Czech Pile,
+3,Bill Li,Death and Taxes,,Won,2,0,0,Justin Hrala,Eldrazi,
+3,Timothy Li,Death and Taxes,,Lost,1,2,0,Raul Mendoza,Burn,
+3,Biondi Lun,Show and Tell,"Omni, UB",Lost,0,2,0,Josh Monks,UR Delver,
+3,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,1,0,Gary Mcneely,Elves,
+3,Tyler Marklyn,Bant,Brave Sir Robin,Won,2,0,0,Nicholas Trettel,BUG Delver,
+3,Russell Martin,Miracles,,Lost,1,2,0,Shawn Yu,Czech Pile,
+3,Marco Martinez,Combo Lands,RG,Lost,1,2,0,Sam Tang,Grixis Delver,
+3,Jake Mccune,Maverick,,Lost,0,2,0,Brian Bennett,Show and Tell,Omni/Sneak
+3,Gary Mcneely,Elves,,Lost,1,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+3,Raul Mendoza,Burn,,Won,2,1,0,Timothy Li,Death and Taxes,
+3,Greg Mitchell,Czech Pile,,Won,2,0,0,Joel Kittinger,Pox,Bw
+3,Josh Monks,UR Delver,,Won,2,0,0,Biondi Lun,Show and Tell,"Omni, UB"
+3,Adam Prusa,Combo Lands,RG,Won,2,0,0,Michael Wallio,Grixis Control,Ninjas
+3,Nicholas Ragazzo,Elves,,Won,2,0,0,Randy Buehler,Czech Pile,
+3,Jason Schlieger,Czech Pile,,Lost,0,2,0,Christopher Sorenson,Death and Taxes,
+3,Alex Scott,Deadguy Ale,,Won,2,1,0,Brian Andersen,Food Chain,
+3,Christopher Sorenson,Death and Taxes,,Won,2,0,0,Jason Schlieger,Czech Pile,
+3,Robert Starke,BR Reanimator,,Lost,1,2,0,Joseph Christensen,4c Loam,
+3,Andy Stowell,Czech Pile,,Lost,0,2,0,Jeff Kinsey,Goblins,Rb
+3,Sam Tang,Grixis Delver,,Won,2,1,0,Marco Martinez,Combo Lands,RG
+3,Michael Tessier,Grixis Control,,Won,2,1,0,Steven Britton,Aluren,BUG
+3,Bryce Tippett,Enchantress,GWb,Won,2,1,0,Samuel Fairchild,Grixis Delver,
+3,Nicholas Trettel,BUG Delver,,Lost,0,2,0,Tyler Marklyn,Bant,Brave Sir Robin
+3,Michael Wallio,Grixis Control,Ninjas,Lost,0,2,0,Adam Prusa,Combo Lands,RG
+3,Timothy Wilder,Bant Deathblade,,Won,2,1,0,Dave Asbury,Turbo Depths,Junk
+3,Tom Williams,Tezzeret,Grixis,Won,2,1,0,Shane Ash,Turbo Depths,
+3,Randy Yao,Elves,,Won,2,0,0,John Donati,Death and Taxes,
+3,Shawn Yu,Czech Pile,,Won,2,1,0,Russell Martin,Miracles,
+4,Jordan Aisaka,UWR Stoneblade,,Lost,0,2,0,James Johnson,Storm,"ANT, Entomb"
+4,Brian Andersen,Food Chain,,Lost,1,2,0,Jason Schlieger,Czech Pile,
+4,Dave Asbury,Turbo Depths,Junk,Lost,1,2,0,John Donati,Death and Taxes,
+4,Brian Bennett,Show and Tell,Omni/Sneak,Lost,0,2,0,Shawn Yu,Czech Pile,
+4,Steven Britton,Aluren,BUG,Lost,0,2,0,Samuel Hriljac,Miracles,
+4,Randy Buehler,Czech Pile,,Lost,1,2,0,Josh Monks,UR Delver,
+4,Solomon Burgess,RUG Delver,,Won,2,0,0,Russell Martin,Miracles,
+4,Patrick Casey,Imperial Painter,RW,Lost,1,2,0,Raul Mendoza,Burn,
+4,Joseph Christensen,4c Loam,,Won,2,0,0,Dan Mortensen,UR Control,Punishing Thing
+4,Alonso Cisternas,Jund,Punishing,Won,2,0,0,Jake Mccune,Maverick,
+4,Christopher Cornejo,Czech Pile,,Lost,0,2,0,Zac Forshee,UWR Stoneblade,
+4,John Donati,Death and Taxes,,Won,2,1,0,Dave Asbury,Turbo Depths,Junk
+4,Jeremy Edwards,Tin Fins,,Won,2,0,0,Sam Tang,Grixis Delver,
+4,Samuel Fairchild,Grixis Delver,,Won,2,1,0,Michael Wallio,Grixis Control,Ninjas
+4,Zac Forshee,UWR Stoneblade,,Won,2,0,0,Christopher Cornejo,Czech Pile,
+4,Justin Hrala,Eldrazi,,Lost,0,2,0,Andy Stowell,Czech Pile,
+4,Samuel Hriljac,Miracles,,Won,2,0,0,Steven Britton,Aluren,BUG
+4,Rob Hunsaker,Show and Tell,Sneak,Won,2,0,0,Joel Kittinger,Pox,Bw
+4,James Johnson,Storm,"ANT, Entomb",Won,2,0,0,Jordan Aisaka,UWR Stoneblade,
+4,Jeff Kinsey,Goblins,Rb,Won,2,0,0,Bryce Tippett,Enchantress,GWb
+4,Joel Kittinger,Pox,Bw,Lost,0,2,0,Rob Hunsaker,Show and Tell,Sneak
+4,Bill Li,Death and Taxes,,Lost,0,2,0,Greg Mitchell,Czech Pile,
+4,Timothy Li,Death and Taxes,,Won,2,0,0,Robert Starke,BR Reanimator,
+4,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,1,0,Nicholas Ragazzo,Elves,
+4,Tyler Marklyn,Bant,Brave Sir Robin,Lost,0,2,0,Gary Mcneely,Elves,
+4,Russell Martin,Miracles,,Lost,0,2,0,Solomon Burgess,RUG Delver,
+4,Jake Mccune,Maverick,,Lost,0,2,0,Alonso Cisternas,Jund,Punishing
+4,Gary Mcneely,Elves,,Won,2,0,0,Tyler Marklyn,Bant,Brave Sir Robin
+4,Raul Mendoza,Burn,,Won,2,1,0,Patrick Casey,Imperial Painter,RW
+4,Greg Mitchell,Czech Pile,,Won,2,0,0,Bill Li,Death and Taxes,
+4,Josh Monks,UR Delver,,Won,2,1,0,Randy Buehler,Czech Pile,
+4,Dan Mortensen,UR Control,Punishing Thing,Lost,0,2,0,Joseph Christensen,4c Loam,
+4,Adam Prusa,Combo Lands,RG,Lost,1,2,0,Michael Tessier,Grixis Control,
+4,Nicholas Ragazzo,Elves,,Lost,1,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+4,Jason Schlieger,Czech Pile,,Won,2,1,0,Brian Andersen,Food Chain,
+4,Alex Scott,Deadguy Ale,,Lost,1,2,0,Randy Yao,Elves,
+4,Christopher Sorenson,Death and Taxes,,Lost,0,2,0,Timothy Wilder,Bant Deathblade,
+4,Robert Starke,BR Reanimator,,Lost,0,2,0,Timothy Li,Death and Taxes,
+4,Andy Stowell,Czech Pile,,Won,2,0,0,Justin Hrala,Eldrazi,
+4,Sam Tang,Grixis Delver,,Lost,0,2,0,Jeremy Edwards,Tin Fins,
+4,Michael Tessier,Grixis Control,,Won,2,1,0,Adam Prusa,Combo Lands,RG
+4,Bryce Tippett,Enchantress,GWb,Lost,0,2,0,Jeff Kinsey,Goblins,Rb
+4,Nicholas Trettel,BUG Delver,,Lost,0,2,0,Tom Williams,Tezzeret,Grixis
+4,Michael Wallio,Grixis Control,Ninjas,Lost,1,2,0,Samuel Fairchild,Grixis Delver,
+4,Timothy Wilder,Bant Deathblade,,Won,2,0,0,Christopher Sorenson,Death and Taxes,
+4,Tom Williams,Tezzeret,Grixis,Won,2,0,0,Nicholas Trettel,BUG Delver,
+4,Randy Yao,Elves,,Won,2,1,0,Alex Scott,Deadguy Ale,
+4,Shawn Yu,Czech Pile,,Won,2,0,0,Brian Bennett,Show and Tell,Omni/Sneak
+5,Jordan Aisaka,UWR Stoneblade,,Lost,0,2,0,Greg Mitchell,Czech Pile,
+5,Brian Bennett,Show and Tell,Omni/Sneak,Won,2,0,0,Jeff Kinsey,Goblins,Rb
+5,Steven Britton,Aluren,BUG,Lost,0,2,0,Jason Schlieger,Czech Pile,
+5,Randy Buehler,Czech Pile,,Lost,1,2,0,Andy Stowell,Czech Pile,
+5,Solomon Burgess,RUG Delver,,Lost,1,2,0,Josh Monks,UR Delver,
+5,Patrick Casey,Imperial Painter,RW,Lost,0,2,0,Timothy Li,Death and Taxes,
+5,Joseph Christensen,4c Loam,,Won,2,0,0,Jeremy Edwards,Tin Fins,
+5,Alonso Cisternas,Jund,Punishing,Lost,1,2,0,Zac Forshee,UWR Stoneblade,
+5,Christopher Cornejo,Czech Pile,,Lost,1,2,0,Jake Mccune,Maverick,
+5,John Donati,Death and Taxes,,Lost,0,1,0,Bill Li,Death and Taxes,
+5,Jeremy Edwards,Tin Fins,,Lost,0,2,0,Joseph Christensen,4c Loam,
+5,Samuel Fairchild,Grixis Delver,,Lost,1,2,0,Raul Mendoza,Burn,
+5,Zac Forshee,UWR Stoneblade,,Won,2,1,0,Alonso Cisternas,Jund,Punishing
+5,Samuel Hriljac,Miracles,,Won,2,0,0,Gary Mcneely,Elves,
+5,Rob Hunsaker,Show and Tell,Sneak,Lost,1,2,0,Michael Wallio,Grixis Control,Ninjas
+5,James Johnson,Storm,"ANT, Entomb",ID,0,0,1,Shawn Yu,Czech Pile,
+5,Jeff Kinsey,Goblins,Rb,Lost,0,2,0,Brian Bennett,Show and Tell,Omni/Sneak
+5,Joel Kittinger,Pox,Bw,Won,2,1,0,Dan Mortensen,UR Control,Punishing Thing
+5,Bill Li,Death and Taxes,,Won,1,0,0,John Donati,Death and Taxes,
+5,Timothy Li,Death and Taxes,,Won,2,0,0,Patrick Casey,Imperial Painter,RW
+5,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,0,0,Michael Tessier,Grixis Control,
+5,Jake Mccune,Maverick,,Won,2,1,0,Christopher Cornejo,Czech Pile,
+5,Gary Mcneely,Elves,,Lost,0,2,0,Samuel Hriljac,Miracles,
+5,Raul Mendoza,Burn,,Won,2,1,0,Samuel Fairchild,Grixis Delver,
+5,Greg Mitchell,Czech Pile,,Won,2,0,0,Jordan Aisaka,UWR Stoneblade,
+5,Josh Monks,UR Delver,,Won,2,1,0,Solomon Burgess,RUG Delver,
+5,Dan Mortensen,UR Control,Punishing Thing,Lost,1,2,0,Joel Kittinger,Pox,Bw
+5,Adam Prusa,Combo Lands,RG,Lost,1,2,0,Randy Yao,Elves,
+5,Nicholas Ragazzo,Elves,,Lost,0,2,0,Timothy Wilder,Bant Deathblade,
+5,Jason Schlieger,Czech Pile,,Won,2,0,0,Steven Britton,Aluren,BUG
+5,Alex Scott,Deadguy Ale,,Won,2,1,0,Tom Williams,Tezzeret,Grixis
+5,Andy Stowell,Czech Pile,,Won,2,1,0,Randy Buehler,Czech Pile,
+5,Michael Tessier,Grixis Control,,Lost,0,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+5,Michael Wallio,Grixis Control,Ninjas,Won,2,1,0,Rob Hunsaker,Show and Tell,Sneak
+5,Timothy Wilder,Bant Deathblade,,Won,2,0,0,Nicholas Ragazzo,Elves,
+5,Tom Williams,Tezzeret,Grixis,Lost,1,2,0,Alex Scott,Deadguy Ale,
+5,Randy Yao,Elves,,Won,2,1,0,Adam Prusa,Combo Lands,RG
+5,Shawn Yu,Czech Pile,,ID,0,0,1,James Johnson,Storm,"ANT, Entomb"
+6,Jordan Aisaka,UWR Stoneblade,,Won,2,0,0,Jeff Kinsey,Goblins,Rb
+6,Brian Bennett,Show and Tell,Omni/Sneak,ID,0,0,1,Timothy Wilder,Bant Deathblade,
+6,Solomon Burgess,RUG Delver,,Lost,1,2,0,Jake Mccune,Maverick,
+6,Joseph Christensen,4c Loam,,Lost,1,2,0,Alex Scott,Deadguy Ale,
+6,Alonso Cisternas,Jund,Punishing,Lost,1,2,0,Bill Li,Death and Taxes,
+6,John Donati,Death and Taxes,,Drew,1,1,0,Jason Schlieger,Czech Pile,
+6,Jeremy Edwards,Tin Fins,,Lost,0,2,0,Michael Wallio,Grixis Control,Ninjas
+6,Zac Forshee,UWR Stoneblade,,Drew,1,1,0,Greg Mitchell,Czech Pile,
+6,Samuel Hriljac,Miracles,,Lost,1,2,0,Nicholas Ragazzo,Elves,
+6,Rob Hunsaker,Show and Tell,Sneak,Lost,0,2,0,Timothy Li,Death and Taxes,
+6,James Johnson,Storm,"ANT, Entomb",ID,0,0,1,Tom Lynch,Show and Tell,Omni/Sneak
+6,Jeff Kinsey,Goblins,Rb,Lost,0,2,0,Jordan Aisaka,UWR Stoneblade,
+6,Joel Kittinger,Pox,Bw,Lost,0,2,0,Adam Prusa,Combo Lands,RG
+6,Bill Li,Death and Taxes,,Won,2,1,0,Alonso Cisternas,Jund,Punishing
+6,Timothy Li,Death and Taxes,,Won,2,0,0,Rob Hunsaker,Show and Tell,Sneak
+6,Tom Lynch,Show and Tell,Omni/Sneak,ID,0,0,1,James Johnson,Storm,"ANT, Entomb"
+6,Jake Mccune,Maverick,,Won,2,1,0,Solomon Burgess,RUG Delver,
+6,Raul Mendoza,Burn,,Lost,1,2,0,Andy Stowell,Czech Pile,
+6,Greg Mitchell,Czech Pile,,Drew,1,1,0,Zac Forshee,UWR Stoneblade,
+6,Josh Monks,UR Delver,,Won,2,1,0,Michael Tessier,Grixis Control,
+6,Dan Mortensen,UR Control,Punishing Thing,Won,2,0,0,Robert Starke,BR Reanimator,
+6,Adam Prusa,Combo Lands,RG,Won,2,0,0,Joel Kittinger,Pox,Bw
+6,Nicholas Ragazzo,Elves,,Won,2,1,0,Samuel Hriljac,Miracles,
+6,Jason Schlieger,Czech Pile,,Drew,1,1,0,John Donati,Death and Taxes,
+6,Alex Scott,Deadguy Ale,,Won,2,1,0,Joseph Christensen,4c Loam,
+6,Robert Starke,BR Reanimator,,Lost,0,2,0,Dan Mortensen,UR Control,Punishing Thing
+6,Andy Stowell,Czech Pile,,Won,2,1,0,Raul Mendoza,Burn,
+6,Michael Tessier,Grixis Control,,Lost,1,2,0,Josh Monks,UR Delver,
+6,Michael Wallio,Grixis Control,Ninjas,Won,2,0,0,Jeremy Edwards,Tin Fins,
+6,Timothy Wilder,Bant Deathblade,,ID,0,0,1,Brian Bennett,Show and Tell,Omni/Sneak
+6,Randy Yao,Elves,,ID,0,0,1,Shawn Yu,Czech Pile,
+6,Shawn Yu,Czech Pile,,ID,0,0,1,Randy Yao,Elves,
+Q,Brian Bennett,Show and Tell,Omni/Sneak,Won,2,0,0,Shawn Yu,Czech Pile,
+Q,James Johnson,Storm,"ANT, Entomb",Lost,1,2,0,Randy Yao,Elves,
+Q,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,1,0,Timothy Wilder,Bant Deathblade,
+Q,Greg Mitchell,Czech Pile,,Won,2,1,0,Josh Monks,UR Delver,
+Q,Josh Monks,UR Delver,,Lost,1,2,0,Greg Mitchell,Czech Pile,
+Q,Timothy Wilder,Bant Deathblade,,Lost,1,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+Q,Randy Yao,Elves,,Won,2,1,0,James Johnson,Storm,"ANT, Entomb"
+Q,Shawn Yu,Czech Pile,,Lost,0,2,0,Brian Bennett,Show and Tell,Omni/Sneak
+S,Brian Bennett,Show and Tell,Omni/Sneak,Lost,0,2,0,Tom Lynch,Show and Tell,Omni/Sneak
+S,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,0,0,Brian Bennett,Show and Tell,Omni/Sneak
+S,Greg Mitchell,Czech Pile,,Lost,0,2,0,Randy Yao,Elves,
+S,Randy Yao,Elves,,Won,2,0,0,Greg Mitchell,Czech Pile,
+F,Tom Lynch,Show and Tell,Omni/Sneak,Won,2,0,0,Randy Yao,Elves,
+F,Randy Yao,Elves,,Lost,0,2,0,Tom Lynch,Show and Tell,Omni/Sneak
