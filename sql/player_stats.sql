@@ -1,5 +1,5 @@
 SELECT * from
-  (SELECT player, elo, sum(wins) as total_wins, sum(losses) as total_losses, sum(draws) as total_draws, (sum(wins) * 1.0 / (sum(draws) + sum(losses) + sum(wins))) as winrate FROM
+  (SELECT player, elo, sum(wins) as total_wins, sum(losses) as total_losses, sum(draws) as total_draws, (((sum(wins) + sum(draws)*.5) * 1.0) / (sum(draws) + sum(losses) + sum(wins))) as winrate FROM
     (SELECT
        p1.name as player,
        p1.elo as elo,
@@ -26,4 +26,3 @@ SELECT * from
   GROUP BY player
    ORDER BY elo desc, winrate desc)
 WHERE (total_wins + total_losses);
-
