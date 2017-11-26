@@ -15,7 +15,7 @@ import org.skife.jdbi.v2.DBI;
 
 
 public class Elo {
-	private static final int STARTING_ELO = 1500;
+	private static final int STARTING_ELO = 1600;
 	private static final int PROVISIONAL_K_VALUE = 32;
 	private static final int K_VALUE = 32;
 
